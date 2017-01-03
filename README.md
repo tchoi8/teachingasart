@@ -19,6 +19,9 @@ Learning outcome: Students will become knowledgeable about various ways of teach
 Letters
 
 - [Letter 1](https://github.com/tchoi8/teachingasart/blob/master/letter1.md) 12/26/2016  
+- Letter 2 will unpack three readings from the Letter 1 and introduce the concept of unlearning through [Spivak](http://www.stephengdewyer.info/PDF%20files/Danius,_Sara_Stefan_Jonsson_Gayatri_Spivak_An_Interview_with_Gayatri_Spivak_boundary_2_vol_20_no_2_summer_1993.pdf)'s text   
+
+
  
 
 Readings 
