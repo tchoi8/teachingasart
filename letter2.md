@@ -1,18 +1,20 @@
 
-I hope you had a wonderful New Years Eve and the first week of 2017.
+Dear class 
 
-I suggest you go out for a walk. I love walking around the Prospect Park in the winter. 
+I hope you had a wonderful New Years Eve and the first week of 2017.
+ 
+*I suggest you go out for a walk. I love walking around the Prospect Park in the winter.* 
 
 ![](https://c2.staticflickr.com/8/7425/12102986165_377bb54318_b.jpg)
 
-Central Park is nice too, especially in a snowy day. 
+*Central Park is nice too, especially in a snowy day.* 
 
 ![](https://c2.staticflickr.com/8/7297/12299282604_235a808e70_b.jpg)
 
 "An active line on a walk, moving freely, without goal. A walk for a walk's sake. The mobility agent, is a point, shifting its position forward.  
 –From Paul Klee, Pedagogical Sketchbook, 1925.  Book & introduction in Tate Blog
 
-I suggest you write a poem. 
+*I suggest you write a poem.* 
 
 ![](https://c2.staticflickr.com/4/3715/12298734955_3709398a95_b.jpg)
 
@@ -35,3 +37,4 @@ This, of course, is the model of our contemporary art program. We sit around the
 –From, Draw it with your eyes closed. Art of the Assignment, 2012. – Dan Torop, A wizard of earthsea 
 
 Warmly, 
+Taeyoon
