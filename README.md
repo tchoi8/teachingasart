@@ -19,6 +19,7 @@ Learning outcome: Students will become knowledgeable about various ways of teach
 Letters
 
 - [Letter 1](https://github.com/tchoi8/teachingasart/blob/master/letter1.md) 12/26/2016  
+- [Letter 2](https://github.com/tchoi8/teachingasart/blob/master/letter2.md) 1/6/2017
 
 Readings 
 
