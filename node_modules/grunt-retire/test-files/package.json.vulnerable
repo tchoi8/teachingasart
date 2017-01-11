@@ -1,0 +1,49 @@
+{
+  "name": "grunt-retire",
+  "description": "Grunt plugin for retire.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bekk/grunt-retire",
+  "author": {
+    "name": "Ståle Pettersen",
+    "email": "staale@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bekk/grunt-retire.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bekk/grunt-retire/issues"
+  },
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt": "~0.4.1",
+    "retire": "~0.1.1",
+    "underscore": "1.4.x",
+    "commander": "1.1.x",
+    "npm": "1.2.x",
+    "findit": "0.1.2",
+    "events": "0.5.0",
+    "async": "~0.2.9",
+    "request": "~2.27.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "gruntplugin",
+    "retire",
+    "security"
+  ],
+  "dependencies": {
+    "backbone": "0.3.3"
+  }
+}
