@@ -7,23 +7,61 @@ This class is for artists and creative practitioners who want to teach. A good t
 Learning objective: In this class, students will learn about applying artistic processes to teaching. Students will read about the history of artists in and out of academic institutions, Black Mountain College as well as more recent experiments. Students are expected to engage in a critical discussion about the topic.  
 
 Learning outcome: Students will become knowledgeable about various ways of teaching. Students will create a lesson plan for a workshop. 
+
+
+[Letter #1](https://github.com/tchoi8/teachingasart/blob/master/letter1.md) 12/26/2016  
+
+[Letter #2](https://github.com/tchoi8/teachingasart/blob/master/letter2.md) 1/6/2017
+
+
+## Requirments
+
+Students and teacher will respect each other as equals, will speak and write kindly to each other. They will challenge each other academically and articially.  
  
-- Week 1: Lecture about the history of artists and creative practitioners as teachers. Students will create a map of their learning history. 
-- Week 2: Students will create a participatory performance about teaching and learning. 
-- Week 3: Lecture about critical pedagogy. Students will write an essay about their practice and teaching. 
-- Week 4: Students will teach each other a subject of their choice and give feedback. 
-- Week 5: Lecture about accessible and inclusive learning spaces. 
-- Week 6: Student presentation about a lesson plan for a workshop-1. 
-- Week 7: Student presentation about a lesson plan for a workshop-2. 
+Student will be in class, on time. Two late arrival counts as an absence, two absences will be immediately fail.
 
-Letters
+Students will use github repository to find the latest syllabus, reading materials as well as to submit their assignments. 
 
-- [Letter 1](https://github.com/tchoi8/teachingasart/blob/master/letter1.md) 12/26/2016  
-- [Letter 2](https://github.com/tchoi8/teachingasart/blob/master/letter2.md) 1/6/2017
+Students will submit their assignment by every Saturday 9pm. Late assignemnt will not be considered for review. Stuents may update their assignment after initial submission and after class. 
 
-Readings 
+ 
+## Week 1
 
-- Paulo Freire, Pedagogy of the oppressed. Herder and Herder, 1970
-- Ivan Illich, Deschooling Society. Marion Boyars Publishers, 1971-2000
-- John Taylor Gato, Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling. New Society Publishers, 2002
-- William Ayers, To Teach: The Journey of a Teacher. Teachers College press, 1993
+Introduction of the course and his practice. Teaching philosophy. 
+
+In class exercise about learning.
+
+
+## Week 2
+
+Lecture about artists as teachers. How to design a curriculum. 
+
+In class exercise, a participatory performance about teaching.  
+
+## Week 3
+
+Lecture about critical pedagogy. Pedagogy, the craft of teaching.  
+
+In class, students will simulate teaching and give feedback. 
+
+## Week 4
+
+Lecture about unlearning. 
+  
+In class exercise about unlearning.
+ 
+## Week 5
+
+Lecture about accessible and inclusive learning spaces. 
+
+Student short presentation about their final project. 
+
+## Week 6
+
+Student presentation about a lesson plan for a workshop, part 1. 
+
+## Week 7
+
+Student presentation about a lesson plan for a workshop, part 2. 
+
+ 
