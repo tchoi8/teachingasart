@@ -27,10 +27,13 @@ Students will submit their assignment by every Saturday 9pm. Late assignemnt wil
  
 ## Week 1
 
-Introduction of the course and his practice. Teaching philosophy. 
+Introduction of the course and the instructor's practice. Teaching philosophy. 
 
 In class exercise about learning.
 
+Reading for next week: 
+
+Assignment: tbd 
 
 ## Week 2
 
@@ -38,11 +41,15 @@ Lecture about artists as teachers. How to design a curriculum.
 
 In class exercise, a participatory performance about teaching.  
 
+Assignment: tbd
+
 ## Week 3
 
 Lecture about critical pedagogy. Pedagogy, the craft of teaching.  
 
 In class, students will simulate teaching and give feedback. 
+
+Assignment: tbd
 
 ## Week 4
 
@@ -50,11 +57,14 @@ Lecture about unlearning.
   
 In class exercise about unlearning.
  
+Assignment: tbd
+
 ## Week 5
 
 Lecture about accessible and inclusive learning spaces. 
 
 Student short presentation about their final project. 
+
 
 ## Week 6
 
