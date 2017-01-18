@@ -31,7 +31,7 @@ Introduction of the course and the instructor's practice. Teaching philosophy.
 
 In class exercise about learning.
 
-Reading for next week: 
+Reading for next week: tbd
 
 Assignment: tbd 
 
@@ -74,4 +74,8 @@ Student presentation about a lesson plan for a workshop, part 1.
 
 Student presentation about a lesson plan for a workshop, part 2. 
 
+
+### Instructor information
+ 
+[Taeyoon Choi](http://taeyoonchoi.com) is an artist and educator based in New York and Seoul. His art practice involves performance, electronics, drawings, and storytelling that often leads to intervention in public spaces. Choi collaborates with fellow artists, activists, and professionals from other fields to realize socially engaged projects and alternative pedagogy. He was an artist-in-residence at Eyebeam Art and Technology Center and Lower Manhattan Cultural Council. He has published books about urbanism and is currently working on a book of drawings about computation. Choi cofounded the [School for Poetic Computation](http://sfpc.io) in 2013, where he continues to organize and teach. Recently, he's been focusing on unlearning the wall of disability and normalcy, and enhancing accessibility and diversity within art and technology. Choi serves on the board of advisors of the Processing Foundation. 
  
