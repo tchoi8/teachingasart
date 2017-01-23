@@ -45,6 +45,17 @@ questioning underlying engineering principles without accepting formal architect
 - There's a potency in Art's resistance to utility 
 - For an educator, there's alot to learn from Art and Artists  
 
+![](http://www.albersfoundation.org/templates/assets/images/teaching-anni/introduction_03.jpg)
+
+Anni Albers 
+
+![](http://www.albersfoundation.org/templates/assets/images/teaching-anni/handweaving_today_04.jpg)
+
+"Unfortunately today handweaving has degenerated in face of technically superior methods of production. Instead of freely developing new forms, recipes are often used, traditional formulas, which once proved successful. Freshness of invention, of intelligent and imaginative forming has been lost. If handweaving is to regain actual influence on contemporary life, approved repetition has to be replaced with the adventure of new exploring.
+
+The same return to the fundamentals needed for the structural work is also necessary for the combinative or aesthetic side of it, to clear the way for new forming. For the lack of invention often found in the handweaving of today is a general symptom of this time of standardization. If teaching attempts to direct the development of individuals as well as of peoples, it should try to avert a growing onesidedness which may prove fatal. For ability to form materials presupposes responsiveness towards the material, a flexibility of reaction, and this flexibility is one of the factors we will need for times to come. Through working with material we can perhaps develop this ability to respond. More than intangible material, than tones or words, tangible material can teach that it has demands of its own and suggestions of its own for its forming, that it asks for a reaction. Creating means this reacting to material rather than the execution of a dream, as the layman conceives it. The first vision of something to be done gives more the mood of the work than its final form. The form emerges as the work progresses." – [Handweaving Today: Textile Work at Black Mountain College](http://www.albersfoundation.org/teaching/anni-albers/texts/#) by Anni Albers 
+
+![](http://www.albersfoundation.org/templates/assets/images/teaching-anni/introduction_04.jpg)
 
 ### Activity 
 
