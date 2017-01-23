@@ -9,9 +9,9 @@ Learning objective: In this class, students will learn about applying artistic p
 Learning outcome: Students will become knowledgeable about various ways of teaching. Students will create a lesson plan for a workshop. 
 
 
-[Letter #1](https://github.com/tchoi8/teachingasart/blob/master/letter1.md) 12/26/2016  
+[Letter #1](https://github.com/tchoi8/teachingasart/blob/master/letters/lecture1.md) 12/26/2016  
 
-[Letter #2](https://github.com/tchoi8/teachingasart/blob/master/letter2.md) 1/6/2017
+[Letter #2](https://github.com/tchoi8/teachingasart/blob/master/letters/lecture2.md) 1/6/2017
 
 
 ## Requirments
@@ -47,12 +47,13 @@ In class participatory performance about teaching.
 
 In class workshop, How to design a curriculum. 
 
-Readings
+Readings for next week 
  
 - An excerpt from Pedagogy of the oppressed by Paulo Freire 
 - An excerpt from Education by Emmanuel Kant 
 - Ivan Illich, Deschooling Society. Marion Boyars Publishers, 1971-2000
 - John Taylor Gato, Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling. New Society Publishers, 2002 
+- [Tabari Bomani](http://creativetime.org/summit/2015/11/13/tabari-zaid-bomani/), Creative Time Summit 2015 
 
 Assignment: Co-learning activity. You will pair up with a student in class. You will share learning map and use it to teach each other a subject of choice. Document the process and give feedbacks on each others teaching.   
 
