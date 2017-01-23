@@ -9,9 +9,9 @@ Learning objective: In this class, students will learn about applying artistic p
 Learning outcome: Students will become knowledgeable about various ways of teaching. Students will create a lesson plan for a workshop. 
 
 
-[Letter #1](https://github.com/tchoi8/teachingasart/blob/master/letters/lecture1.md) 12/26/2016  
+[Letter #1](https://github.com/tchoi8/teachingasart/blob/master/letters/letter1.md) 12/26/2016  
 
-[Letter #2](https://github.com/tchoi8/teachingasart/blob/master/letters/lecture2.md) 1/6/2017
+[Letter #2](https://github.com/tchoi8/teachingasart/blob/master/letters/letter2.md) 1/6/2017
 
 
 ## Requirments
@@ -28,6 +28,8 @@ Students will submit their assignment by every Saturday 9pm. Late assignemnt wil
 ## Week 1. Learning
 
 Introduction of the course and the instructor's practice. Teaching philosophy.
+
+[Lecture 1. Learning](https://tchoi8.github.io/teachingasart/lecture1.html)
 
 In class exercise about learning.
 
