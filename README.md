@@ -16,55 +16,74 @@ Learning outcome: Students will become knowledgeable about various ways of teach
 
 ## Requirments
 
-Students and teacher will respect each other as equals, will speak and write kindly to each other. They will challenge each other academically and articially.  
+Students and teacher will respect each other as equals, will speak and write kindly to each other. They will challenge each other academically and artistically.  
  
-Student will be in class, on time. Two late arrival counts as an absence, two absences will be immediately fail.
+Students will be in class, on time. Two late arrival counts as an absence, two absences will be immediately fail.
 
 Students will use github repository to find the latest syllabus, reading materials as well as to submit their assignments. 
 
 Students will submit their assignment by every Saturday 9pm. Late assignemnt will not be considered for review. Stuents may update their assignment after initial submission and after class. 
 
  
-## Week 1
+## Week 1. Learning
 
-Introduction of the course and the instructor's practice. Teaching philosophy. 
+Introduction of the course and the instructor's practice. Teaching philosophy.
 
 In class exercise about learning.
 
-Reading for next week: tbd
+Reading assignment for next week: 
 
-Assignment: tbd 
+- An excerpt from [Democracy and Education](https://www.gutenberg.org/files/852/852-h/852-h.htm) by John Dewey
+- An excerpt from [The Experimenters, Chance and design at Black Mountain College](http://press.uchicago.edu/ucp/books/book/chicago/E/bo18291671.html) by Eva Díaz
+- [Black Mountain College](http://albersfoundation.org/teaching/anni-albers/texts/#tab2) by Anni Albers  
+- On the Creation of Syllabi. from Notes on Dunce Cap by Jesse Ball. page 28~31
 
-## Week 2
+Assignment: Create a map that illustrates how you learn something. Write a 300 words essay to accompany the map.  
 
-Lecture about artists as teachers. How to design a curriculum. 
+## Week 2. Curriculum
 
-In class exercise, a participatory performance about teaching.  
+Lecture about artists as teachers. Lacy,
+In class participatory performance about teaching.  
+
+In class workshop, How to design a curriculum. 
+
+Readings
+ 
+- An excerpt from Pedagogy of the oppressed by Paulo Freire 
+- An excerpt from Education by Emmanuel Kant 
+- Ivan Illich, Deschooling Society. Marion Boyars Publishers, 1971-2000
+- John Taylor Gato, Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling. New Society Publishers, 2002 
+
+Assignment: Co-learning activity. You will pair up with a student in class. You will share learning map and use it to teach each other a subject of choice. Document the process and give feedbacks on each others teaching.   
+
+## Week 3. Pedagogy 
+
+Student presentation about Co-learning activity. 
+
+Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical pedagogy, alternative education.  
+
+Readings
+
+- An excerpt from [COULD BE NO.2: High School Special](http://mediacityseoul.kr/2016/en/project/could-be-no-2) 
+
 
 Assignment: tbd
 
-## Week 3
+## Week 4. Unlearning 
 
-Lecture about critical pedagogy. Pedagogy, the craft of teaching.  
-
-In class, students will simulate teaching and give feedback. 
-
-Assignment: tbd
-
-## Week 4
-
-Lecture about unlearning. 
-  
+Lecture about unlearning. Museum as an educational space. Case studies of the Whitney Museum, the New Museum and the Queens Museum. 
+ 
 In class exercise about unlearning.
  
-Assignment: tbd
+Readings
 
-## Week 5
+- An excerpt from Outside in the Teaching Machine by Gayatri Spivak 
 
-Lecture about accessible and inclusive learning spaces. 
+## Week 5 Inclusive learning 
+
+Lecture about accessible and inclusive learning spaces. Makerspaces, community spaces, libraries. 
 
 Student short presentation about their final project. 
-
 
 ## Week 6
 

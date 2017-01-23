@@ -1,5 +1,4 @@
-
-Further readings 
+Readings and viewings 
 
 - Paulo Freire, Pedagogy of the oppressed. Herder and Herder, 1970
 - Ivan Illich, Deschooling Society. Marion Boyars Publishers, 1971-2000
@@ -10,3 +9,5 @@ Further readings
 - [Tool For Thought](http://www.rheingold.com/texts/tft/) by Howard Rheingold
 -  [On Thinking about Teaching](http://www.sarabethberk.com/wp-content/uploads/2015/11/duckworth-article-el_199103_meek.pdf): A Conversation with Eleanor Duckworth
 - [A Wizard of Earthsea](http://drawitwithyoureyesclosed.com/post/66102696583/dan-toropa-wizard-of-earthsea), Dan Torop
+- [LENS × BLOCK, World as Construction Kit](http://web.media.mit.edu/~silver/phdthesis.php#ch1) by Jay Silver  
+ 
