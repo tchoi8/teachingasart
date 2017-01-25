@@ -22,7 +22,7 @@ Students will be in class, on time. Two late arrival counts as an absence, two a
 
 Students will use github repository to find the latest syllabus, reading materials as well as to submit their assignments. 
 
-Students will submit their assignment by every Saturday 9pm. Late assignemnt will not be considered for review. Stuents may update their assignment after initial submission and after class. 
+Students will submit their assignment by every Sunday morning. Late assignemnt will not be considered for review. Stuents may update their assignment after initial submission and after class. 
 
  
 ## Week 1. Learning
@@ -44,7 +44,7 @@ Reference
 
 - The Experimenters, Chance and design at Black Mountain College by Eva Díaz
 
-Assignment: Create a map that illustrates how you learn something. Write a 300 words essay to accompany the map.  
+Assignment: Create a map that illustrates how you learn something. Write a 500 words essay to accompany the map.  
 
 ## Week 2. Curriculum
 
