@@ -35,10 +35,14 @@ In class exercise about learning.
 
 Reading assignment for next week: 
 
-- An excerpt from [Democracy and Education](https://www.gutenberg.org/files/852/852-h/852-h.htm) by John Dewey
-- An excerpt from [The Experimenters, Chance and design at Black Mountain College](http://press.uchicago.edu/ucp/books/book/chicago/E/bo18291671.html) by Eva Díaz
+- An [excerpt](https://github.com/tchoi8/teachingasart/blob/master/readings/democracyandeducation.md) from [Democracy and Education](https://www.gutenberg.org/files/852/852-h/852-h.htm) by John Dewey
 - [Black Mountain College](http://albersfoundation.org/teaching/anni-albers/texts/#tab2) by Anni Albers  
-- On the Creation of Syllabi. from Notes on Dunce Cap by Jesse Ball. page 28~31
+- [On the Creation of Syllabi](https://github.com/tchoi8/teachingasart/blob/master/readings/creationofsyllabi.md). from Notes on Dunce Cap by Jesse Ball. page 28~31
+
+
+Reference
+
+- The Experimenters, Chance and design at Black Mountain College by Eva Díaz
 
 Assignment: Create a map that illustrates how you learn something. Write a 300 words essay to accompany the map.  
 
