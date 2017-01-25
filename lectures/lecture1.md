@@ -1,10 +1,14 @@
 # Lecture #1 
 
+Work in progress notes and transcription. 
+
 Artist presentation by Taeyoon (20 minutes)
 
 Introduction, expectations, schedule. 
 
 Expectations for students. You will create a material for your workshop. You will try teaching in real life.  
+
+Introduction of students, what are you excited about? why did you decide to take this class? 
 
 #1. 
 
@@ -28,15 +32,18 @@ Taeyoon: You can only get so far. I think Art professionals have a pretty good b
 
 I agree Art is an expression, but Art is more than just a delivery of expression. Art is a way of finding a meaning.
 
-Art matters because it's very material. Conceptual art has material impact on how we see the world. Our perceptions will change through art. 
+Art matters because it's very material. Digital art, or even Conceptual art have material impact on how we see and experience the world. Our perceptions change through art. 
 
-Art gives a different way of communicating, from language. There are art works which I revisit over the years. Art of teaching and teaching of the art is different. I need to talk about Art to talk about teaching. 
+Art gives a different way of communicating. It's closer to affect compared to language. It's the intensity and transmission, before we recognize what emotion it is. It's prior to taste or 'understanding.'  
 
-Art has a sublime quality which gives a chance to question our being. I have relationship with art works, sometimes painting or music, cinema. Each time I see the work, there's something more for me. It gives something new to me. And every time, I change a little bit trough experiencing the art work. It's different from commercials that's designed to give you a feeling, a certain kind of feeling, as an outcome of their material.
+Art has a sublime quality which gives a chance to question our being. I have relationship with art works, and I'm speaking broadly about art, including painting or music, literature or cinema. Each time I see the work, there's something more for me. It gives something new to me. And every time, I change a little bit by experiencing the art work. It's different from commercials that's designed to give you a feeling, a certain kind of feeling, as an outcome of their material.
 
-Art is often times not useful. It's not meant to be used. Although many of art, like what I make or what my friends make, are  effective in everyday situations. Sometimes blurring the distinction between design, technology and art. However, as artists, we have a right to make something that's does not do stuff. This resistance to utlitarian function, that's were we create space beyond function. It's not only about making things beautiful or expressing yourself. It's about opening a space where you can be any things, anytime, anywhere. 
+Art is often times not useful. It's not meant to be used. Although many of art, like what I make or what my friends make, are  effective in everyday situations, sometimes blurring the distinction between design, technology and art. However, as artists, we have a right to make something that's do not do stuff. This resistance to utlitarian function, that's were we create a space beyond function. It's not only about making things beautiful or expressing yourself. It's about opening a space where you can be any things, anytime, anywhere. 
 
 I take art seriously, almost religiously. Without art, life would be really dull. We will be able to survive without art. There are times when authoritarian government suppressed art, censored art.  
+
+Art of teaching and teaching of the art is different. I need to talk about Art to talk about teaching. 
+
 
 #2.
 
@@ -51,17 +58,26 @@ Teaching as a gift
 
 
 #3-4.
-Gift is different from trade. It's not transactional. 
+
+Student: But Gift, in sociology, is something poeple give to each other in hope of reward, or compensation? 
+
+Taeyoon: Gift is different from trade, it's not transactional.  
 
 Teaching and learning can be a reciprocal relationship. Student can inspire the teacher, and help the teacher learn. 
 
-Good teachers and bad teachers are different. or is it a bad curricular system that makes a bad teacher. 
+Student: How about bad teachers? who approach teaching as purely professional task? 
+
+Good teachers and bad teachers are different. There's alot to learn from bas teachers. It can be a bad curricular system that makes a bad teacher. 
 
 #5.
-Kant's notion of education stresses discipline over creativity. It feels like many of the public education  
+Kant's notion of education stresses discipline over creativity.
+
+It feels like many of the public education enforces discipline to tailor people to fit into the society.  
 
 #6. 
-Education, in a traditional understanding, is taming the nature into utilitarian purpose. It's like cutting a tree into a log, and then making a pencil from it. Learning is about learning to learn. You may remember learning to ride a bicycle. Verbal instructions offer little help. You need to ride the bicycle and fall a few times and you learn to take risk, each time balancing your movement. 
+Education, in a traditional understanding, is taming the nature into utilitarian purpose. It's like cutting a tree into a log, and then making a pencil from it. 
+
+Learning is about learning to learn. You may remember learning to ride a bicycle. Verbal instructions offer little help. You need to ride the bicycle and fall a few times and you learn to take risk, each time balancing your movement. 
 
 Student: "especially after No Child Left Behind."
 
@@ -76,37 +92,25 @@ Student elaborates
 – [Democracy and Education](https://www.gutenberg.org/files/852/852-h/852-h.htm) by John Dewey 
 
 
-
 #8.
 
 Teaching is about lifting up the students. It's giving a chance to see beyond the fence. 
 
-What you want to learn, how you want to learn. When I was preparing 
+I was thinking about ""what you want to learn, how you want to learn" When I was preparing this class. 
 
 #9. 
 
 Teaching as learning
+
 The secret of teaching effectively is to think in the perspective of someone who is learning
 
 #10. 
 Teacher and Student. Being a teacher and student is like playing a game of musical chair. The player's roles may rotate. It's a play as in the'appropriation of power'.
-
-
-
-- From creating a habit to building a habitat   
-
-### Experimenter  
-
-"To Fuller, investigational prototyping was inextricably part of any experimental method—“I designed this thing so it would deliberately fall down, would not stand.” As disorderly as the process of constructing the dome may
-have appeared to participants—wet Venetian blinds scattered throughout the landscape of Black Mountain’s Lake Eden campus—the dome was, according to him, engineered and “measured by comprehensive and strict practices of calculation and test.” Fuller wanted students to think structurally about buildings,
-questioning underlying engineering principles without accepting formal architectural conventions. He excoriated the way most art and architecture programs “teach otherwise innocent students to make pathetic attempts to out-Mies Mies while overlooking the energetic and economic fundamentals governing development of truly evolutionary design initiative, and design responsibility.” – [The Experimenters, Chance and design at Black Mountain College](http://press.uchicago.edu/ucp/books/book/chicago/E/bo18291671.html) by Eva Díaz
-
-- Uncertainty and unknowns. being okay with not knowing what will happen 
-- [The Black Mountain College Experiment Revisited](https://www.youtube.com/watch?v=IlnAvD5_Lws), a talk by Eva Díaz 
-- [Black Mountain College: Experiment in Art](https://mitpress.mit.edu/books/black-mountain-college) by Vincent Katz  
  
  
 # 14-17. 
+
+Anni Albers is a very important figure. Unfortuantely, because the history was written by men about men, she's often introduced as wife of Josef Albers. While Josef is also important, he set the academic rigor and research of formal qualities and color, Anni contributed in the teaching philosophy and curriculum. I think of her as the archetypical coder and designer. Her textile works as well as prints show the systemic approach to patterns and abstraction. 
  
 – [Handweaving Today: Textile Work at Black Mountain College](http://www.albersfoundation.org/teaching/anni-albers/texts/#) by Anni Albers 
 
@@ -115,11 +119,9 @@ questioning underlying engineering principles without accepting formal architect
 Anni Alber's approach is radical, because she focuses on the materiality of textile as a starting point for design. It's not relying on a dream of what the work is going to be, but emerge in the material and let the form emerge out of the process. 
 
 
-Student: Is this similar to The Logic of Sense
-Book by Gilles Deleuze?
+Student: Is this similar to The Logic of Sense, a book by Gilles Deleuze?
 
 Taeyoon: Could you elaborate? 
-
 
 
 /details to work on. Deleuze's notion of the painter coming with many ideas about what the painting can be, and subtracting it to give form... 
@@ -135,11 +137,20 @@ One option is to organize them on a shelf. It's neat. Another option is to disti
 
 – The Experimenters, Chance and design at Black Mountain College, Eva Díaz, 2015
 
+Experimenter  
+
+"To Fuller, investigational prototyping was inextricably part of any experimental method—“I designed this thing so it would deliberately fall down, would not stand.” As disorderly as the process of constructing the dome may
+have appeared to participants—wet Venetian blinds scattered throughout the landscape of Black Mountain’s Lake Eden campus—the dome was, according to him, engineered and “measured by comprehensive and strict practices of calculation and test.” Fuller wanted students to think structurally about buildings,
+questioning underlying engineering principles without accepting formal architectural conventions. He excoriated the way most art and architecture programs “teach otherwise innocent students to make pathetic attempts to out-Mies Mies while overlooking the energetic and economic fundamentals governing development of truly evolutionary design initiative, and design responsibility.” – [The Experimenters, Chance and design at Black Mountain College](http://press.uchicago.edu/ucp/books/book/chicago/E/bo18291671.html) by Eva Díaz
+
+- Uncertainty and unknowns. being okay with not knowing what will happen 
+- [The Black Mountain College Experiment Revisited](https://www.youtube.com/watch?v=IlnAvD5_Lws), a talk by Eva Díaz 
+- [Black Mountain College: Experiment in Art](https://mitpress.mit.edu/books/black-mountain-college) by Vincent Katz 
+
 #23-26.
 Buckminster Fuller, an eccentric futurist 
 
-Utopia, utlitiy, industrialism.
-
+Utopia, utilitiy, futility, Industrialism.
 
 Institute of Design, Chicago
 
@@ -151,19 +162,17 @@ Constructivist Theory of Learning, simply put is learning by doing and making.
 
 #28. 
 
-1. it's just an information.
+1. One dot is just an information.
 
-2. there are two dots, you made a connection between two information.
+2. There are two dots, you made a connection between two information.
 
 3. You make more connection between them, it becomes a knowledge. 
 
-4. By now, you created as association of knowledge, which you can pull and reshape.
+4. By now, you created as association of knowledge, which you can reshape.
 
 5. Now you abstracted the assiciation of knowledge, emotion, and memories.
  
 Learning is like connecting many sensory data and the abstracted associations, and building a world with it. 
-
-
 
 #30-31. 
 
