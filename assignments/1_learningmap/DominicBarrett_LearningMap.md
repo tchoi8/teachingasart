@@ -19,4 +19,5 @@ These materials have been procured at great cost. You may be expected to pass al
 Thank you and good luck.
 -HQ
 
-![Map](http://www.dominicbarrett.com/itpblog/wp-content/uploads/2017/01/Secret-Maps-File.jpg)
+![Map 1](http://www.dominicbarrett.com/itpblog/wp-content/uploads/2017/01/Secret-Maps-File.jpg)
+![Map 2](http://www.dominicbarrett.com/itpblog/wp-content/uploads/2017/01/Secret-Maps-File2.png)
