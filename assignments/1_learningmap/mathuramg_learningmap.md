@@ -14,3 +14,4 @@ After this, I begin to work on the project itself. While doing this, I get a cha
 
 *While writing this essay, I was not sure how right I was about my learning style, so I decided to learn some Adobe Illustrator by making the map to go with this blurb. Now I do feel like I have learnt some more of Illustrator :)*
 
+![learning map](http://i.imgur.com/kHQHMeN.png)
