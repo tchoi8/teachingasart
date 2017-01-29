@@ -18,4 +18,4 @@ or wait until after all of the feedback is addressed.
 It is a conversation with the intent of comprising with the critic's issues with the creator's vision and 
 move forward for further revisions.  
 
-![Map 1] (https://68.media.tumblr.com/2ad518e154dda22c942d33502cdc541e/tumblr_okaji3wkt21vg4kuko2_1280.jpg), [Map 2] (https://68.media.tumblr.com/063af90c0a28ac24ecd3d11bf3c6ac33/tumblr_okaji3wkt21vg4kuko1_1280.jpg)
+![Map 1] (https://68.media.tumblr.com/2ad518e154dda22c942d33502cdc541e/tumblr_okaji3wkt21vg4kuko2_1280.jpg), ![Map 2] (https://68.media.tumblr.com/063af90c0a28ac24ecd3d11bf3c6ac33/tumblr_okaji3wkt21vg4kuko1_1280.jpg)
