@@ -27,6 +27,8 @@ Students will submit their assignment by every Sunday morning. Late assignemnt w
  
 ## Week 1. Learning
 
+January 23, 2017
+
 Introduction of the course and the instructor's practice. Teaching philosophy.
 
 [Lecture 1. Learning](https://tchoi8.github.io/teachingasart/lecture1.html)
@@ -48,6 +50,8 @@ Assignment: Create a map that illustrates how you learn something. Write a 500 w
 
 ## Week 2. Curriculum
 
+January 30, 2017 
+ 
 Artists as educators, performance art work as curriculum  
 
 - Joseph Beuys & Fluxus 
@@ -58,11 +62,22 @@ Artists as educators, performance art work as curriculum
 - [Institut für Raumexperimente](http://raumexperimente.net/en/) – Berlin
 - [Tabari Bomani](http://creativetime.org/summit/2015/11/13/tabari-zaid-bomani/) – Brooklyn 
 
+Topics
+
+- Community is a curriculum
+- Body is a curriculum 
+- Space is a curriculum
+- Street is a curriculum
+- Food is a curriculum
+- Art is a curriculum
+ 
+
 In class workshop, draft a curriculum for a workshop. 
 
-- Subject matter: What do I want to teach?  
-- Big picture goals: What would the students achieve?  
-- Inspirations: Who was your favorite, most inspiring teacher? 
+- Identifying a subject matter– What do I want to teach? learn?  
+- Big picture goals: What would the students experience and achieve?  
+- Inspirations: Who was your favorite, most inspiring teacher? Why? 
+- Activity: 10 Minutes Professor. 
 
 Readings: tbd asap 
 
@@ -71,57 +86,80 @@ Assignment: Co-learning activity. You will pair up with a student in class. You 
 
 ## Week 3. Syllabus 
 
+February 5, 2017 
+
 Lecture about artists in schools, public institutions, galleries, museums, biennales 
 
 - [Open field](http://www.walkerart.org/open-field-conversations-on-the-commons) at Walker 
-- [Sheetal Prajapati](sheetalprajapati.com/) at MoMA
+- [Sheetal Prajapati](https://sheetalprajapati.com/) at MoMA
 - [Christine Sun Kim](http://whitney.org/WhitneyStories/ChristineSunKim) at Whitney 
 - [Shaun Leonardo](http://elcleonardo.com/) at [New Museum](http://www.newmuseum.org/pages/view/persona)
 - [Art + Technology Lab](http://www.lacma.org/lab) at LACMA
 - [Machine Project](www.machineproject.com/files/pdf/MP0806_LACMA_Final.lo-res.pdf) at LACMA 
-
+- Pablog Helguera, [Education for Socially Engaged Art](http://pablohelguera.net/2011/11/education-for-socially-engaged-art-2011/) (2011) 
 
 In class workshop, make a syllabus from the curriculum
+
+- An excerpt from [COULD BE NO.2: High School Special](http://mediacityseoul.kr/2016/en/project/could-be-no-2)
 
 
 ## Week 4. Pedagogy 
 
-Student presentation about Co-learning activity. 
+February 13, 2017
 
 Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical pedagogy, alternative education.  
 
-Readings
-
-- An excerpt from [COULD BE NO.2: High School Special](http://mediacityseoul.kr/2016/en/project/could-be-no-2) 
+Student presentation about Co-learning activity. 
 
 
-Assignment: tbd
-
-## Week 5. Unlearning 
-
-Lecture about unlearning. Museum as an educational space. Case studies of the Whitney Museum, the New Museum and the Queens Museum. 
- 
-In class exercise about unlearning.
- 
 Readings
 
 - An excerpt from Outside in the Teaching Machine by Gayatri Spivak 
+ 
+
+## Week 5. Unlearning 
+
+February 20, 2017
+
+Lecture about unlearning and intersectionality.  
+
+In class exercise about unlearning.
+ 
+Reading: 
+
+- Judtih Butler 
+- Martha Nussbaum 
+
 
 ## Week 6 Inclusive learning 
 
+February 27, 2017
+
 Lecture about accessible and inclusive learning spaces. Makerspaces, community spaces, libraries. 
+ 
+- Sara Hendren
+- Vicky Henson 
+ 
 
-Student short presentation about their final project. 
+## Week 7 Teaching philosophy 
+
+March 6, 2017 
+
+Lecture about combining theory and practice in art and teaching. 
+
+Student presentation about a lesson plan for a workshop.
 
 
-## One week break 
+## No class 
 
 The president's day 
 
-## Week 7
+ 
+## Week 8
 
-Student presentation about a lesson plan for a workshop. 
-
+March 20, 2017 
+ 
+Student presentation on their final project: workshop. 
 
 ### Instructor information
  
