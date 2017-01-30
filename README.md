@@ -48,22 +48,43 @@ Assignment: Create a map that illustrates how you learn something. Write a 500 w
 
 ## Week 2. Curriculum
 
-Lecture about artists as teachers. Lacy,
-In class participatory performance about teaching.  
+Artists as educators, performance art work as curriculum  
 
-In class workshop, How to design a curriculum. 
+- Joseph Beuys & Fluxus 
+- Judy Chicago & Feminism 
+- [Allan Kapprow](https://en.wikipedia.org/wiki/Allan_Kaprow) & Happening 
+- [Suzanne Lacy](https://suzannelacy.com) – LA & global 
+- [Conflict Kitchen](http://conflictkitchen.org/) – Pittsburgh 
+- [Institut für Raumexperimente](http://raumexperimente.net/en/) – Berlin
+- [Tabari Bomani](http://creativetime.org/summit/2015/11/13/tabari-zaid-bomani/) – Brooklyn 
 
-Readings for next week 
- 
-- An excerpt from Pedagogy of the oppressed by Paulo Freire 
-- An excerpt from Education by Emmanuel Kant 
-- Ivan Illich, Deschooling Society. Marion Boyars Publishers, 1971-2000
-- John Taylor Gato, Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling. New Society Publishers, 2002 
-- [Tabari Bomani](http://creativetime.org/summit/2015/11/13/tabari-zaid-bomani/), Creative Time Summit 2015 
+In class workshop, draft a curriculum for a workshop. 
+
+- Subject matter: What do I want to teach?  
+- Big picture goals: What would the students achieve?  
+- Inspirations: Who was your favorite, most inspiring teacher? 
+
+Readings: tbd asap 
 
 Assignment: Co-learning activity. You will pair up with a student in class. You will share learning map and use it to teach each other a subject of choice. Document the process and give feedbacks on each others teaching.   
 
-## Week 3. Pedagogy 
+
+## Week 3. Syllabus 
+
+Lecture about artists in schools, public institutions, galleries, museums, biennales 
+
+- [Open field](http://www.walkerart.org/open-field-conversations-on-the-commons) at Walker 
+- [Sheetal Prajapati](sheetalprajapati.com/) at MoMA
+- [Christine Sun Kim](http://whitney.org/WhitneyStories/ChristineSunKim) at Whitney 
+- [Shaun Leonardo](http://elcleonardo.com/) at [New Museum](http://www.newmuseum.org/pages/view/persona)
+- [Art + Technology Lab](http://www.lacma.org/lab) at LACMA
+- [Machine Project](www.machineproject.com/files/pdf/MP0806_LACMA_Final.lo-res.pdf) at LACMA 
+
+
+In class workshop, make a syllabus from the curriculum
+
+
+## Week 4. Pedagogy 
 
 Student presentation about Co-learning activity. 
 
@@ -76,7 +97,7 @@ Readings
 
 Assignment: tbd
 
-## Week 4. Unlearning 
+## Week 5. Unlearning 
 
 Lecture about unlearning. Museum as an educational space. Case studies of the Whitney Museum, the New Museum and the Queens Museum. 
  
@@ -86,19 +107,20 @@ Readings
 
 - An excerpt from Outside in the Teaching Machine by Gayatri Spivak 
 
-## Week 5 Inclusive learning 
+## Week 6 Inclusive learning 
 
 Lecture about accessible and inclusive learning spaces. Makerspaces, community spaces, libraries. 
 
 Student short presentation about their final project. 
 
-## Week 6
 
-Student presentation about a lesson plan for a workshop, part 1. 
+## One week break 
+
+The president's day 
 
 ## Week 7
 
-Student presentation about a lesson plan for a workshop, part 2. 
+Student presentation about a lesson plan for a workshop. 
 
 
 ### Instructor information
