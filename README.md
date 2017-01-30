@@ -11,7 +11,7 @@ Learning outcome: Students will become knowledgeable about various ways of teach
 
 [Letter #1](https://github.com/tchoi8/teachingasart/blob/master/letters/letter1.md) 12/26/2016  
 
-[Letter #2](https://github.com/tchoi8/teachingasart/blob/master/letters/letter2.md) 1/6/2017
+[Letter #2](https://github.com/tchoi8/teachingasart/blob/master/letters/letter2.md) 1/6/2017 
 
 
 ## Requirments
@@ -53,6 +53,8 @@ Assignment: Create a map that illustrates how you learn something. Write a 500 w
 January 30, 2017 
  
 What is curriculum? Artists as educators, performance art work as curriculum  
+
+[Lecture 2. Curriculum](https://tchoi8.github.io/teachingasart/lecture2.html#/)
 
 - Joseph Beuys & Fluxus 
 - Judy Chicago & Feminism 
