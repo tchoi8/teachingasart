@@ -52,7 +52,7 @@ Assignment: Create a map that illustrates how you learn something. Write a 500 w
 
 January 30, 2017 
  
-Artists as educators, performance art work as curriculum  
+What is curriculum? Artists as educators, performance art work as curriculum  
 
 - Joseph Beuys & Fluxus 
 - Judy Chicago & Feminism 
