@@ -5,5 +5,5 @@ I learn when I really focus on that thing. So how I focus on that? it means when
 The discussion during the class keep me concentrate, Also it gives me a space to think about what I am doing now. Am I lost? what is that for? those questions keep me back on track. 
 
 
-http://xxx.tiri.xxx/wp-content/uploads/2017/01/TiriAssignment.jpg
+![](http://xxx.tiri.xxx/wp-content/uploads/2017/01/TiriAssignment.jpg)
 
