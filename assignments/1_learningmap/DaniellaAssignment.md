@@ -32,7 +32,7 @@ had imagined. What I mostly cared for was the feeling of contentment and joy it 
 
 opportunity to dream all those years and create structures of imagination and hope-and most
 
-importantly how this experience can be transmitted to others. For as Louse Bourgeois said,
+importantly how this experience can be transmitted to others. For as Louise Bourgeois said,
 
 "When you admire something you become larger than yourself. When you witness beauty, you
 
