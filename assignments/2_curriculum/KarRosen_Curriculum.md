@@ -22,4 +22,5 @@ It also means that while each student has to follow the baseline, the teacher ca
 With a balance of freedom, emotional support, flexibility, and understanding, I believe we can create a curriculum that would inspire
 students to learn.
 
-![Image 1] (https://68.media.tumblr.com/901e5ea16d53b04113329ce266a69a94/tumblr_okrgtpYa7t1vg4kuko2_1280.jpg), ![Image 2] (https://68.media.tumblr.com/4a4e34d307cc897ede47c90f48743ef1/tumblr_okrgtpYa7t1vg4kuko1_1280.jpg)
+![Image_1](https://68.media.tumblr.com/901e5ea16d53b04113329ce266a69a94/tumblr_okrgtpYa7t1vg4kuko2_1280.jpg),![Image_2](https://68.media.tumblr.com/4a4e34d307cc897ede47c90f48743ef1/tumblr_okrgtpYa7t1vg4kuko1_1280.jpg)
+
