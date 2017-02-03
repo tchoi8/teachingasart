@@ -81,7 +81,12 @@ In class workshop, draft a curriculum for a workshop.
 - Inspirations: Who was your favorite, most inspiring teacher? Why? 
 - Activity: 10 Minutes Professor. 
 
-Readings: tbd asap 
+Readings:  
+
+
+Leaving art writings on performance, politics, and publics, 1974-2007 by Suzanne Lacy NYU Ebrary  - In Mourning and in Rage, p 64- 71 
+
+Education for Socially Engaged Art by Pablo Helguera PDF - [Chapter 2](http://towery.lehman.edu/PhotoTopics/Photo%20Topics%20readings/Weeks34PPabloHelgueraEducationforSociallyEngagedArt.pdf), p 9 - 25 
 
 Assignment: Co-learning activity. You will pair up with a student in class. You will share learning map and use it to teach each other a subject of choice. Document the process and give feedbacks on each others teaching.   
 
