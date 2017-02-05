@@ -11,7 +11,7 @@ At the end, we remembered little of what we learnt, and all that was just for th
 
 If I was to go back and redesign it, this is what I would do:
 
-*Objectives*
+**Objectives**
 
 * To engage students in real world problems using a semi-fictional medium.
 * To encourage teamwork through exploration of this semi-fictional medium
@@ -19,10 +19,11 @@ If I was to go back and redesign it, this is what I would do:
 * To apply the learnt concepts in the real world
 * To eventually explore the real world
 
-*Process*
+**Process**
+
 The students will explore a semi-fictional India through a multiplayer role playing game. The game, despite being multiplayer, will have no easy means of communication with other players (no chat, or voice calls). However, the only way to progress through the open-ended game is through teamwork. The students will have to talk to each other in the real world about challenges in the virtual world in order to solve them. They may however figure out and invent their own means of communication within the world. The game will  feature real-world live problems across different regions of the map which they have to solve collectively. The teacher decides the outcome of their results, and may impose a new set of problems that are consequential to their collective choices.
 
-The students will also have to prove sufficient proficiency with their personal characters in individual quests as well. Students will have to learn real world science in order to apply it in the virtual world in order to progress through the game. 
+The students will also have to prove sufficient proficiency with their personal characters in individual quests as well. Students will have to learn real world science in order to apply it in the virtual world in order to progress through the game, essentially building a skill-tree as they go. The game will ensure that the basic needed knowledge of all subjects will be covered in order to expose the student to the many possible paths and their interconnectedness. Ofcourse, if students find themselves struggling in a certain area, they may help each other, and even request extra help from the teachers.
 
 The game will feature an economy that are subject to real world changes as well as choices of the class. The students will be expected to handle their personal and societal treasuries, and avoid economic hurdles. 
 
