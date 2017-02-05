@@ -13,5 +13,6 @@ Prerequisites will be based on a course to course basis.  For example, students 
 The main objective is to prepare students to approach the world with a cross disciplinary, collaborative practice.  Encourage lateral thinking between subjects in order to inform independent, unique ideas. 
 
 ![WAVE](http://www.chesterdols.com/wp-content/uploads/2017/02/DavidAltmedj_Wave.jpg)
+David Altmedj, 'Wave', 2011, Plaster.  I like David Altmedj's approach to making.  His work always seems to question process.  His pluralisitic approach to making creates opportunity for new forms and ideas.  Is this a painting or a sculpture?
 
 Full Disclaimer, this is not a fully developed idea.  It is a proposal on how we could restructure education and our approach to knowledge.  The courses offered are not fully developed nor is the scope to how this would be accomplished.  
