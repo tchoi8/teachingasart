@@ -11,4 +11,4 @@ I’m also a more visual person, which means that huge blocks of code with.no.sp
 
 For understanding my ideal learning process, these are the 4 steps you need to follow:
 
-![Map 1] (http://www.itp.franrodriguezsawaya.com/wp-content/uploads/2017/01/learning-map.jpg)
+![Map 1](http://www.itp.franrodriguezsawaya.com/wp-content/uploads/2017/01/learning-map.jpg)
