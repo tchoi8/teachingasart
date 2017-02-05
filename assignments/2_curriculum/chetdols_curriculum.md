@@ -6,10 +6,12 @@ Extending the practice of how I learn (from the previous assignment), I would li
 
 The course structure will be based on a 10 class periods centered around daily symposiums with practical labs.  Symposium and lab will count as 2 courses leaving students with 8 classes chosen based on individual capacity and curiosity.  Out of these 8 courses, students will be required to take 4 humanities courses and 4 math/science courses for balance.  In these symposiums and labs would be cross disciplinary discussion and research.  It is not necessary for instructors to have knowledge in all areas of study.  Instructors will stand in as catalysts for conversation and curiosity.  Symposiums and practical labs will take place between 10 students with shared and dissimilar classes.   Their will be no hierarchy between participants.   Students will explore tangential subjects through conversation, and be encouraged to ask all questions they see relevant.
 
-Physical wellness will be explored through after school extracurriculars.
+Prerequisites will be based on a course to course basis.  For example, students interested in taking courses in calculus ii, must have previously completed calculus and before that, pre-calculus.  Students interested in taking higher level courses in any respective subject must take the necessary foundation courses for that subject or show a capacity of competent knowledge.
 
-OBJECTIVE:
-Prepare students to approach the world with a cross disciplinary, collaborative practice.  Encourage lateral thinking between subjects in order to inform independent, unique ideas. 
+(Physical wellness will be explored through after school extracurriculars.)
 
-PREREQUISITES:
-Prerequisites will be based on a course to course basis.  For example, students interested in taking courses in calculus ii, must have previously completed calculus and before that, pre-calculus.  Students interested in taking higher level courses in any respective subject must take the necessary foundation courses for that subject or show a capacity of competent knowledge. 
+The main objective is to prepare students to approach the world with a cross disciplinary, collaborative practice.  Encourage lateral thinking between subjects in order to inform independent, unique ideas. 
+
+![WAVE](http://www.chesterdols.com/wp-content/uploads/2017/02/DavidAltmedj_Wave.jpg)
+
+Full Disclaimer, this is not a fully developed idea.  It is a proposal on how we could restructure education and our approach to knowledge.  The courses offered are not fully developed nor is the scope to how this would be accomplished.  
