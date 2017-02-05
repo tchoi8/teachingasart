@@ -4,7 +4,7 @@ There is a feedback mechanism with in my system of learning.  After applying and
 
 As for the material itself,  I am a hands on visual learner.  Simply sophisticated diagrams go a long way and real world labs make an impression.  You can’t just tell me that gravity works equally on all objects.  I need to see a tennis ball and egg drop at the same time from the same height, and smash and hit the ground at the same time.  I need my hands in the material.  Give me an egg and I will throw it to see what happens.  
 
-![Diagram1](http://www.chesterdols.com/wp-content/uploads/2017/01/How-I-Learn.png)
+![Diagram1](http://www.chesterdols.com/wp-content/uploads/2017/01/LearningDiagram.png)
 
 I also think that it is import to recognize how I receive information, and how one becomes an *expert*.  I like to think of the rhizomic model proposed by Deleuze and Guattari when I think how I understand what I know.    In order to understand, we siphon information from experts, peers, and outside sources.  Our knowledge grows when we intersect and have conversations with these individuals.  It is important to stress that the titles of expert, student, peer, and other are interchangeable.   No matter how removed a subject maybe, it will influence our approach and understanding during any conversation.
 
