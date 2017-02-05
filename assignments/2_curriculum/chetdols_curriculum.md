@@ -16,6 +16,8 @@ The main objective is to prepare students to approach the world with a cross dis
 
 *David Altmedj, 'Wave', 2011, Plaster.  I like David Altmedj's approach to making.  His work always seems to question process.  His pluralisitic approach to making creates opportunity for new forms and ideas.  Is this a painting or a sculpture?*
 
-![CollaborativeLearning](newdiagram)
+![CollaborativeLearning](http://www.chesterdols.com/wp-content/uploads/2017/02/Screen-Shot-2017-02-05-at-11.16.17-AM.png)
+
+*Inspired by the idea of a semi-lattice, symposiums and labs would provide a more holistic way of learning and a pluralistic approach to problem solving.  What one student can’t learn alone, they can learn through conversation of the group.*
 
 *Full Disclaimer, this is not a fully developed idea.  It is a proposal on how we could restructure education and our approach to knowledge.  The courses offered are not fully developed nor is the scope to how this would be accomplished.*
