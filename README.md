@@ -88,26 +88,42 @@ Leaving art writings on performance, politics, and publics, 1974-2007 by Suzanne
 
 Education for Socially Engaged Art by Pablo Helguera PDF - [Chapter 2](http://towery.lehman.edu/PhotoTopics/Photo%20Topics%20readings/Weeks34PPabloHelgueraEducationforSociallyEngagedArt.pdf), p 9 - 25 
 
-Assignment: Co-learning activity. You will pair up with a student in class. You will share learning map and use it to teach each other a subject of choice. Document the process and give feedbacks on each others teaching.   
-
 
 ## Week 3. Syllabus 
 
 February 5, 2017 
 
+In class activity: School master 
+
+[Assignment](https://github.com/tchoi8/teachingasart/tree/master/assignments/2_curriculum) was to create a curriculum, for yourself as a sophomore in high school. 
+
+Each student will pair up with another student. They will introduce their curriculum (assignment)to each other. 10 minutes each. 
+
+As a presentation for the whole class, the students will present their curriculum from the perspective of a teacher (or a schoolmaster). The partner will give feedback in perspective of a student in the school.  and vice versa.
+it will be like role playing. 
+
+
 Lecture about artists in schools, public institutions, galleries, museums, biennales 
 
 - [Open field](http://www.walkerart.org/open-field-conversations-on-the-commons) at Walker 
-- [Sheetal Prajapati](https://sheetalprajapati.com/) at MoMA
-- [Christine Sun Kim](http://whitney.org/WhitneyStories/ChristineSunKim) at Whitney 
+- [Sheetal Prajapati](http://sheetalprajapati.com/) at [MoMA](https://www.moma.org/calendar/programs/57#artists)
+- [Christine Sun Kim](http://christinesunkim.com) at [Whitney](http://whitney.org/WhitneyStories/ChristineSunKim) 
+- Night School, [Museum as Hub](http://archive.newmuseum.org/index.php/Detail/Occurrence/Show/occurrence_id/951)
 - [Shaun Leonardo](http://elcleonardo.com/) at [New Museum](http://www.newmuseum.org/pages/view/persona)
 - [Art + Technology Lab](http://www.lacma.org/lab) at LACMA
-- [Machine Project](www.machineproject.com/files/pdf/MP0806_LACMA_Final.lo-res.pdf) at LACMA 
+- [Machine Project](http://www.machineproject.com/files/pdf/MP0806_LACMA_Final.lo-res.pdf) at LACMA 
+- [Triple Canopy](https://www.canopycanopycanopy.com/contents/speculations-the-future-is-___________) at [PS1](http://www.momaps1.org/expo1/module/school/)
+- Queens Museum [Education department](http://www.queensmuseum.org/education)
 - Pablog Helguera, [Education for Socially Engaged Art](http://pablohelguera.net/2011/11/education-for-socially-engaged-art-2011/) (2011) 
 
-In class workshop, make a syllabus from the curriculum
 
+Readings:
+
+- [Museums, Managers of consciousness](https://github.com/tchoi8/teachingasart/blob/master/readings/museums_managers_of_consciousness.md)
 - An excerpt from [COULD BE NO.2: High School Special](http://mediacityseoul.kr/2016/en/project/could-be-no-2)
+
+Assignment: 
+
 
 
 ## Week 4. Pedagogy 
@@ -116,8 +132,10 @@ February 13, 2017
 
 Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical pedagogy, alternative education.  
 
-Student presentation about Co-learning activity. 
+Assignment: Co-learning activity. You will pair up with a student in class. You will share learning map and use it to teach each other a subject of choice. Document the process and give feedbacks on each others teaching.   
 
+
+Student presentation about Co-learning activity. 
 
 Readings
 
