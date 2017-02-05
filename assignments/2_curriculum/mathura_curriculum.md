@@ -35,3 +35,5 @@ Students will spend a few hours a week working in small groups on investigative 
 ###The ultimate goal
 
 We believe this year to be crucial for not only our students but also our teachers. We wish to shape our students into strong-willed and principled adults who understand the power of choices and responsibilities. We wish for our teachers to learn more about the students' goals and together model a system that works best for the unique individuals they are.
+
+![infographic on curriculum](http://imgur.com/a/zi5IB)
