@@ -1,8 +1,6 @@
 Curriculum
 
-Big Picture
-
-
+[Big Picture] (http://www.kripchak.com/wp-content/uploads/2017/02/kripchak_curr_bigpic-1024x768.jpg)
 
 
 I couldn’t find myself able to approach this assignment without also approaching the general education approach in the USA. My mother is a retired elementary school teacher who worked her whole career in one of the most impoverished, inner city districts in the state of Ohio. So many of my views on incorporating philosophy, skills exposure, world understanding, and asking true questions about what America is and how the world and its systems really function, are inspired by our chats, her experience, and thoughts on education.
