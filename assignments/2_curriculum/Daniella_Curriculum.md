@@ -33,6 +33,7 @@ I understand now how much I needed that almost military structure that my school
 Certainly if I could go back and redesign a chapter in the curriculum of my education, there are a number of elements that I would modify, add or subtract. However keeping in mind that a balance is crucial and moreover that education is not a bubble. It might take the form of a sphere, but the infinite tangents that produce this circle (education) must be individually exquisite. 
 
 ![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/FullSizeRender%20(1).jpg)
+![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/IMG_8524.PNG)
 
 1.(Peter Sloterdijk-Bubbles.SpheresI)
 2.(Pablo Helguera-Education for Socially Engaged Art)
