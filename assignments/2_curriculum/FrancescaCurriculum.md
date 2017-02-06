@@ -7,11 +7,16 @@ I went to the same private school for all my primary and secondary education, si
 I went to my school’s webpage to see what information they posted about High School and I took what I think are the most important words:
 
 *Creative talent
-Entrepreneurship
-Interest in investigating, thinking and applying the knowledge acquired
-Positive attitude 
-Practice of social values
-Respect for the environment
+
+*Entrepreneurship
+
+*Interest in investigating, thinking and applying the knowledge acquired
+
+*Positive attitude 
+
+*Practice of social values
+
+*Respect for the environment
 
 *“We prepare our students so they can accomplish international certifications, taking into consideration the specific needs and individual differences from students in our country with the curricular aspect of developed countries”
 
@@ -23,17 +28,25 @@ And I think they do. Based on my experience and everything I’ve seen from diff
 **We are really excited to have you on board for this year! Our teachers are really excited to meet you and start enjoying an amazing year of experiences. 10th grade may sound like a difficult year, but we believe is also a year of amazing explorations. We’ve had rewritten the entire curriculum for you based on what we think will help you learn, experience and relate. We know it’s a difficult time but we firmly believe that it’s the perfect moment to explore and try different things, to break the mental models you may have build through many years and to think outside the box more than ever. This is our PHILOSOPHY, to give students all the tools and knowledge we can provide for them to experiment. We believe learning in an interconnected process and that creating curiosity is one of our main goals as an institution. This curriculum has also been designed to be explored in a more practical way. Classes will work with other classes and several interdisciplinary projects will come out of them. You will still take all the classes mentioned above, even if you show preference for only some of them. However, trust us, we will make sure you relate to them in a way.
 
 
-**LIBERAL ARTS. 
-APPLIED MATH.
-SCIENCE (BIOLOGY, CHEMISTRY, PHYSICS).
-SOCIAL SCIENCES (HISTORY, NATIONAL REALITY).
-COMPUTER SCIENCE.
-ART (MUSIC, PHYSICAL EXPRESSION, THEATRE).
-ENGLISH (LANGUAGE ARTS, SOCIAL STUDIES, GRAMMAR).
-SECOND LANGUAGE (FRENCH, PORTUGUESE …).
-SPORTS.
-LEADERSHIP (EMPOWERMENT AND ORIENTATION).
+**LIBERAL ARTS
 
+**APPLIED MATH
+
+**SCIENCE (BIOLOGY, CHEMISTRY, PHYSICS)
+
+**SOCIAL SCIENCES (HISTORY, NATIONAL REALITY)
+
+**COMPUTER SCIENCE
+
+**ART (MUSIC, PHYSICAL EXPRESSION, THEATRE)
+
+**ENGLISH (LANGUAGE ARTS, SOCIAL STUDIES, GRAMMAR)
+
+**SECOND LANGUAGE (FRENCH, PORTUGUESE …)
+
+**SPORTS
+
+**LEADERSHIP (EMPOWERMENT AND ORIENTATION)
 
 **Our teachers are really excited to meet you! They are all experts in their areas and will be happy to guide you in any question you may have. They also have experience in projects outside school, and will be happy to share them with you. Our LEARNING OBJECTIVE is to put you in touch with a variety of knowledge, to focus on developing critical thinking, to create curiosity in different topics and learn through experimentation. With this, you will be able to make a proper decision over your career options.
 
