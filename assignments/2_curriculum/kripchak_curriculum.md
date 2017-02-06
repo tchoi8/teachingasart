@@ -14,7 +14,7 @@ I think the optimum flow can be achieved when the two requirements of growth  (a
 The most challenging parts of this system are the “tracking” of students, which is illegal in public school systems, I believe. And the ability to allow enough exposure, either through more survey-level courses of subjects or ensuring that topics are covered between classes (ex. Math in cooking, history in math, etc.). We need to ensure that students can move back to subjects they maybe moved away from earlier in their academic careers. 
 
 
-Sophomore Year
+[Sophomore Year] (http://www.kripchak.com/wp-content/uploads/2017/02/kripchak_curr_sopho-1024x768.jpg)
 
 The refocused attention on helping the child reach their potential is represented in everything being in those terms for the more focused chart. From there, I was influenced by college application deadlines to backtrack education milestones. This is what determined the “best candidate possible” objective placement at the end of the 16-17 school year. In order to meet that timeline, it felt that having a relatively-firm idea about the student’s area of interest should be established by the end of the 15-16 school year.
 
