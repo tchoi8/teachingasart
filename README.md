@@ -93,6 +93,8 @@ Education for Socially Engaged Art by Pablo Helguera PDF - [Chapter 2](http://to
 
 February 5, 2017 
 
+[Lecture 3. Syllabus](https://tchoi8.github.io/teachingasart/lecture3.htm)
+
 In class activity: School master 
 
 [Assignment](https://github.com/tchoi8/teachingasart/tree/master/assignments/2_curriculum) was to create a curriculum, for yourself as a sophomore in high school. 
