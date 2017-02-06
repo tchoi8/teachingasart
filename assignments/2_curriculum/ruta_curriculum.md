@@ -53,6 +53,6 @@ With the project based education current classroom setups would no longer work e
 
 ###**Teachers as mentors and experience designers**
 
-Having project based education, teachers would shift from knowledge owners to experience designers. She would be a curator of student learning process, but by no means a conductor.
+Having project based education, teachers would shift from knowledge owners to experience designers. They would be a curators of student learning process, but by no means a conductors.
 As I mentioned above, access to mentors would be really important. That’s why in addition to every project curator (teacher for each project), each student would be assigned a personal mentor – teacher that oversees student’s overall well-being at school and is there to help students explore big questions that they might have. Mentors could change depending on student preference and the relationship they have.
 Each project curator would be responsible to bring outside people to give guest talks and introduce students to the outside-of-school perspectives.
