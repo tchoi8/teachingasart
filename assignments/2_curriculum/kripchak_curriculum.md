@@ -5,7 +5,7 @@ Curriculum
 
 I couldn’t find myself able to approach this assignment without also approaching the general education approach in the USA. My mother is a retired elementary school teacher who worked her whole career in one of the most impoverished, inner city districts in the state of Ohio. So many of my views on incorporating philosophy, skills exposure, world understanding, and asking true questions about what America is and how the world and its systems really function, are inspired by our chats, her experience, and thoughts on education.
 
-It is my feeling that if we are to progress as a nation we need to accept that a people can not be a part of a culture unless they are enculturated with it (ie. some kids in this country only have exposure to survival, drugs, and a welfare state, and they deserve more exposure to what America can be, and different thoughts about the world.)
+It is my feeling that if we are to progress as a nation we need to accept that a people can not be part of a culture unless they are enculturated with it (ie. some kids in this country only have exposure to survival, drugs, and a welfare state, and they deserve more exposure to what America can be, and different thoughts about the world.)
 
 I also define who someone “is” by their potential, and so my curriculum focuses on a system that would allow students exposure to many aspects of mental and body potentials, as well as skills and habits that explore our society and healthy habits within that.
 
