@@ -32,6 +32,8 @@ As I look back, I believe I was fortunate to have two parallel but distinct path
 I understand now how much I needed that almost military structure that my school was giving me, but at the same time the only reason why I kept on dreaming and maintained an eagerness to learn, to discover to be amazed by knowledge was precisely because of my parents’ poetical and abstract ways. They talked to me about love while at catholic school teachers talked about sin. They talked to me about colors and patterns in nature, about creating out of necessity and giving value to everyone and everything around me; while at catholic school I learned about American history, trigonometry and how to be a “lady”. Do I needed both? Contrast gives you perspective, and one might find balance. 
 Certainly if I could go back and redesign a chapter in the curriculum of my education, there are a number of elements that I would modify, add or subtract. However keeping in mind that a balance is crucial and moreover that education is not a bubble. It might take the form of a sphere, but the infinite tangents that produce this circle (education) must be individually exquisite. 
 
+![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/FullSizeRender%20(1).jpg)
+
 1.(Peter Sloterdijk-Bubbles.SpheresI)
 2.(Pablo Helguera-Education for Socially Engaged Art)
 
