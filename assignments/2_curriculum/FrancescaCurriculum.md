@@ -48,11 +48,11 @@ And I think they do. Based on my experience and everything I’ve seen from diff
 
 **LEADERSHIP (EMPOWERMENT AND ORIENTATION)
 
-**Our teachers are really excited to meet you! They are all experts in their areas and will be happy to guide you in any question you may have. They also have experience in projects outside school, and will be happy to share them with you. Our LEARNING OBJECTIVE is to put you in touch with a variety of knowledge, to focus on developing critical thinking, to create curiosity in different topics and learn through experimentation. We also encourage to work with collective creativity. With this, you will be able to make a proper decision over your career options.
+**Our teachers are really excited to meet you! They are all experts in their areas and will be happy to guide you in any question you may have. They also have experience in projects outside school, and will be happy to share them with you. Our LEARNING OBJECTIVE is to put you in touch with a variety of knowledge, to focus on developing critical thinking, to create curiosity in different topics and learn through experimentation. We will also encourage you to work with collective creativity, together with your classmates. With this, you will be able to make a proper decision over your career options.
 
 **In other words, you will be fully prepared on on the topics addressed on the list of classes you will be taking. You will be able to relate topics and create interdisciplinary projects, as well as working with experienced professionals on the field. You will developed critical thinking, an important contact with art studies, technical skills such as computer science, and be ready to get into the competitive professional environment. You will also be prepared on leadership qualities that will help you stand out once you leave High School. These are some of our LEARNING OUTCOMES we offer you as an institution. 
 
-**Here, teachers and students learn together in the highest standard qualities. It will be a challenge, but one you will really enjoy.
+**Here, teachers and students learn together in the highest standard qualities. It will be a challenge, but one you will really enjoy, and one that will prepare you to succeed outside.
 
 **We are really excited to meet you! Welcome to 10th grade.
 
