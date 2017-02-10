@@ -93,7 +93,7 @@ Education for Socially Engaged Art by Pablo Helguera PDF - [Chapter 2](http://to
 
 February 5, 2017 
 
-[Lecture 3. Syllabus](https://tchoi8.github.io/teachingasart/lecture3.htm)
+[Lecture 3. Syllabus](https://tchoi8.github.io/teachingasart/lecture3.html)
 
 In class activity: School master 
 
