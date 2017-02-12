@@ -4,7 +4,7 @@ Unfortunately, the rest of the Museum was closed because some pipes broke. When 
 
 I spend there 2 hours, talking about communities, Latin America Folk Art (which is a topic I’m researching for my thesis), traditional protest music in Mexico, the consequences of gentrification... Francisca, that was the name of the woman, turned and ask me a lot about Peruvian Culture, and after the girls left, I just kept talking with her for a while. It was a really nice moment. This Chilean woman makes music and art as a way of protesting against gentrification in New York. She was also involved with the curation of the exhibition I mentioned before. And even though, there were some ideas I didn’t personally share with her, I felt that meeting her was an amazing experience that ended up creating a space for sharing ideas between people that even though don’t believe in the same mechanisms for change, care about the same topics. At the end, I needed to take a picture with her.
 
-![Foto] (http://www.itp.franrodriguezsawaya.com/2017/02/12/museo-del-barrio/processed-with-vsco-with-b1-preset/)
+![Foto] (http://www.itp.franrodriguezsawaya.com/wp-content/uploads/2017/02/MuseodelBarrio.jpg)
 
 There was no one to talk to me about the Educational Program because it was Saturday, but I talked with some of the guards (they were extremely nice!), to the Colombian guy that was in the Gift Shop and to Francisca about it. I’ve had also researched previously about it on the webpage and if I had to describe it with one phrase, I would say it is a **“celebration of the Latin American culture through community building activities”**. It’s fascinating. 
 
