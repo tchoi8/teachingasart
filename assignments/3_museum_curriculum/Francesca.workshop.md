@@ -16,6 +16,9 @@ For this assignment, I used was I saw as an inspiration and some of my Thesis re
 
 Inspiration:
 
+![Bita] (http://www.itp.franrodriguezsawaya.com/wp-content/uploads/2017/02/IMG_1368.jpg)
+
+
 We carry history with us, all the time. And those daily stories that involve people around us, that are part of our history is what fascinates me. Since I was a little girl, I always used to say “As my grandma told me… “, “My grandparent once told me the story about …”, “Nobody cooks as my grandma”… and so on. I’m sure we’ve all said it, no mather where we come from. Grandparents are a huge part of Latin American culture. We grow up with them, they take care of us while our parents are working, they play with us and become our confidents but also our partners in crime. Because of all the time we spend with them, we end up hearing so many stories about our family, our culture, our country, or the country where they came from, their personal stories, love stories, how they saw the world in their times and how they see it changing … all types of stories. I would even include some secret recipes and myths they made up to create a fantastic world in our minds. When time passes, we remember those stories with nostalgia. We tend to use them as references when we have conversations with people. I do that all the time. But when time passes, we tend to forget sometimes. It’s part of growing but also part of loosing that imagination we explore more as kids. And those stories, that talk so much about where we come from, may be lost. What if, based on the idea under which Folk Art was created in our cultures, we create physical objects that could keep these stories and that could let us share it with the world?
 
 Workshop Name: **Como decía mi abuela.** (As my grandma used to say)
