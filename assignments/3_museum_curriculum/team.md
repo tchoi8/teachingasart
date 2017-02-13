@@ -6,8 +6,8 @@ Daniella - Mithru
 
 Francesca - Jen 
 
-Mathura  - Karl 
+Mathura  - Kar
 
-Francis - Chester
+Franklin - Chester
 
 Ari - Michael 
