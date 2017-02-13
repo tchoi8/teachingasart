@@ -17,4 +17,5 @@ My course would be structured around artist retrospectives or art movements.  It
 Courses would be a series of ongoing weekly tours focusing on a different artist or movements.  Tour guides/ instructors with visit current art on display or current exhibits happening at the Whitney.  The tour guides would bring a catalog of work reference with them as research material for the students.  The catalog could be physical documents, other artwork, biographies, or a slide show with relevant content.  
 
 ![Olympia](http://www.chesterdols.com/wp-content/uploads/2017/02/Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg)
+
 *Above: Edouard Manet, Olympia, 1865.  The stoic, matter-of-fact gaze into the onlooking viewers eyes caused outrage within the art community of the time.  It was a pivotal moment in subject matter within art history.  Who influenced Manet?  What conversations did he engage?*
