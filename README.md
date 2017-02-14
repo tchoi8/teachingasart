@@ -132,13 +132,13 @@ Assignment:
 
 February 13, 2017
 
+[Lecture 4](https://tchoi8.github.io/teachingasart/lecture4.html#/). Pedagogy 
+
 Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical pedagogy, alternative education.  
 
-Assignment: Co-learning activity. You will pair up with a student in class. You will share learning map and use it to teach each other a subject of choice. Document the process and give feedbacks on each others teaching.   
+Assignment: Edit your syllabus for museum workshop for your partner and other participants. Rehearse your teaching for them, in person and in museum or in ITP. Create a feedback form for the participant (student) to give you feedback on your teaching. 
 
-
-Student presentation about Co-learning activity. 
-
+ 
 Readings
 
 - An excerpt from Outside in the Teaching Machine by Gayatri Spivak 
