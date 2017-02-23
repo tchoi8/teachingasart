@@ -32,7 +32,7 @@ This exhibition reminded me of another one I saw back in Lithuania in 2014 by Ro
 
 To me at times like now, there is no art that is not political. Dan Perjovschi’s exhibition was taking place when Russia was occupying Crimea, so all the messages artist was sending were so timely and sensitive.
 
-Going back to Raymond Pettibon… in the middle of his exhibition there was one space that held the works by people who were inspired by artist’s work and wanted to contribute their own reflections by drawing on the the gallery walls.
+Going back to Raymond Pettibon… in the middle of his exhibition there was one space that held the works by people who were inspired by artist’s work and wanted to contribute their own reflections by drawing on the gallery walls.
 
 This open space is a key inspiration for my own workshop…
 
