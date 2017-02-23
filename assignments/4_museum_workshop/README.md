@@ -4,7 +4,7 @@ Edit your syllabus for museum workshop for your partner and other participants. 
 
 Create a feedback form for the participant(student) to give you feedback on your teaching.
 
-Make a posting on this repository. 2 images and 500 words or less (Due on March 3)
+Make a posting on this repository. 2 images and 500 words or less (Due on March 3).
 
 ### In class activity on February 27
 
