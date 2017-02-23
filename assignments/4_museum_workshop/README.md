@@ -1,7 +1,7 @@
 ## Assignment for week 5
 
 
-Edit your syllabus for museum workshop for your partner and other participants. (You can make changes or add more information on this repository from the last week.
+Edit your syllabus for museum workshop for your partner and other participants. (You can make changes or add more information on this repository from the last week.)
 
 Rehearse your teaching for your partner in person at the museum or ITP. 
 
@@ -15,5 +15,5 @@ Make a posting on feedback about your partner's workshop on this repository.  2 
 
 30 minutes: In class workshop: How to create and improve feedback form. We will spend  
 
-30 minutes: Lecture on pedagogy and unlearning 
+30 minutes: Review of lecture 1~4 and discussion about the reading materials. 
 
