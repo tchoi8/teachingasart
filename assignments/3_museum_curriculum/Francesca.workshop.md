@@ -41,3 +41,18 @@ Some thoughts:
 
 As I said in the beginning, Museo del Barrio is a celebration of Latin American Culture. Francisca was telling me how they always design activities that include the Latin community like the “The three kings Day Parade” that happens every January, where everyone designs torchlights and walk about the area. Complete families are part of this. When the Museum was created, it focused primarily on Art from Puerto Rico, but then it started expanding until they were able to englobe all the Latin American Community. If I had the opportunity of designing a workshop there, I would love to take those peculiarities that I feel are really present in our culture and give kids the possibility of exploring them. Specially because the number of sons and daughter from immigrants is huge, and even though they are part of a different culture for living here, I want them to have that connection to where they come from. **Como decía mi abuela**, could be a nice start for this. 
 
+_____
+
+Detailed syllabus:
+
+**Como decía mi abuela **
+*Workshop designed for Museo del Barrio*
+
+This workshop has been designed for students between 8 - 12 years old, who are interested in exploring their creativity and in making things. The only thing they need is imagination and will to play with different materials. They will transform stories in physical objects that they could then take home.
+
+**Learning objective:** In this class, students will learn about transforming stories into physical objects and using them as a tool for sharing experiences with other people. They will learn about traditional Folk Art in Latin America as an inspiration for them to develop their projects.
+
+**Learning outcome:** Students will explore new ways of storytelling through the use of physical materials. Each of them will choose a story based on their experience and craft an object that makes reference to that story.
+
+It will last 1 hour with a 15 minutes break in the middle. 
+
