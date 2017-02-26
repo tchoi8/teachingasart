@@ -26,7 +26,8 @@ All in all, my visit was quite insightful, and in my opinion the museum is doing
 
 ----------
 
-After thinking about the above and talking to my professor, Taeyoon, I started wonder about other topics that interested me. I had recently seen digital [work by Casey Reas](http://artport.whitney.org/commissions/softwarestructures/text.html) supported by the Whitney museum. It was a re-creation of Sol LeWitt's work using code. 
+[UPDATED PLAN FOR WORKSHOP]
+After thinking about the above and talking to my professor, Taeyoon, I started to wonder about other topics that interested me. I had recently seen digital [work by Casey Reas](http://artport.whitney.org/commissions/softwarestructures/text.html) supported by the Whitney museum. It was a re-creation of Sol LeWitt's work using code. 
 
 Being a fan of LeWitt, Reas, math, patterns and code, I decided to pursue a workshop that combined these elements. This is what I ended up rehearsing with Daniella.
 
