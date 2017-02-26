@@ -24,3 +24,21 @@ At the end, I pondered upon what it would take to make a similar exploratory exp
 
 All in all, my visit was quite insightful, and in my opinion the museum is doing an amazing job at keeping their audience engaged. I ended the day by taking a long [walk along central park](https://www.instagram.com/p/BQZt_NTlxv5/?taken-by=mithru) to enjoy the view and collect my thoughts. 
 
+----------
+
+After thinking about the above and talking to my professor, Taeyoon, I started wonder about other topics that interested me. I had recently seen digital [work by Casey Reas](http://artport.whitney.org/commissions/softwarestructures/text.html) supported by the Whitney museum. It was a re-creation of Sol LeWitt's work using code. 
+
+Being a fan of LeWitt, Reas, math, patterns and code, I decided to pursue a workshop that combined these elements. This is what I ended up rehearsing with Daniella.
+
+![Sol LeWitt Workshop postcard](http://i1.wp.com/blog.mithru.com/wp-content/uploads/2017/02/Sol-LeWitt-poster.png)
+
+The intended curriculum would be to get hands on with permutations by using code, and eventually recreating a visual piece based on the work by LeWitt. This may be a direct recreation, or an appropriation of his work. The workshop is intended to be open and on-going, with all the visuals outcomes being collected [here](https://goo.gl/photos/rYXBmKccnKhhoaoeA).
+
+The intended syllabus of the workshop is as follows:
+
+1. Introduction to Sol LeWitt
+2. LeWitt's wall drawings
+3. Understanding Permutations and making calculations of them
+4. Defining rules for our final visual piece(s)
+5. Creating our visual piece (either through code, or hand drawn)
+6. [Optional] Run through existing code built for this workshop
