@@ -11,7 +11,7 @@ Needless to say the Met has so many programs and events for all ages and is very
 
 --- --- --- ---
 
-***Female Figues in Art History***
+***Female Figures in Art History***
 
 **Audience:** Students in Highschool to Graduate School, teens and adults who have an interest in Art History and Feminism
 
@@ -35,6 +35,8 @@ Needless to say the Met has so many programs and events for all ages and is very
 * Creative Activity: 1 hour
 * Sharing Works: 45 minutes
 * (Please be advised conversations prompted from the tour can be continuous and encouraged!)
+
+* **[PDF of Accompanying Booklet](https://drive.google.com/open?id=0B-9fMi40RnI8QmttSi13cFY5UkE)**
 
 **Additional Media:**
 * [Explore: Female Figure Throughout History](https://prezi.com/50nwcuaj80-h/the-evolution-of-the-female-figure-throughout-art-history/)
