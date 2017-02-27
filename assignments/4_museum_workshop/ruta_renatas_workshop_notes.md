@@ -1,7 +1,7 @@
 I loved Renata's effort to put up this workshop, I could see how she really loved her visit to The Morgan Library.
 Her workshop focused on the works of Emily Dickinson and the main activities were around getting me familiar with it from the inside out.
-She introduced me to the basics about EMily Dickinson and her work as well as gave me listened to a few of her poems.
-Finally, I got "unfinished" poems and had to finish them using dashes writing technique just as Emily Dickinson would.
+She introduced me to the basics about Emily Dickinson and her work as well as gave me to listen to a few of her poems.
+After listening to audio, I got "unfinished" poems and had to finish them using dashes writing technique just as Emily Dickinson did.
 
 **Here's a brief overview:**
 
