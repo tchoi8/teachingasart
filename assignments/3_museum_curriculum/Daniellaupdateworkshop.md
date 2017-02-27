@@ -41,3 +41,6 @@ To wonder
 Questions
 
 -------
+
+![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/IMG_8919.JPG)
+![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/IMG_8918.JPG)
