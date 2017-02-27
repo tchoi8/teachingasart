@@ -138,20 +138,19 @@ Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical
 
 Assignment: Edit your syllabus for museum workshop for your partner and other participants. Rehearse your teaching for them, in person and in museum or in ITP. Create a feedback form for the participant (student) to give you feedback on your teaching. 
 
- 
-Readings
-
-- An excerpt from Outside in the Teaching Machine by Gayatri Spivak 
- 
+  
 
 ## Week 5. Unlearning 
 
 February 20, 2017
 
-Lecture about unlearning and intersectionality.  
+Student presentation about Workshop proposal. 
 
-In class exercise about unlearning.
- 
+Reference lectures
+
+- [Unlearnign disability](https://speakerdeck.com/tchoi8/unlearning-disability) 
+- [Capability and potentiality](https://tchoi8.github.io/poetic-computation-16/slides/week7#/) 
+
 Reading: 
 
 - Judtih Butler 
@@ -163,9 +162,10 @@ Reading:
 February 27, 2017
 
 Lecture about accessible and inclusive learning spaces. Makerspaces, community spaces, libraries. 
- 
-- Sara Hendren
-- Vicky Henson 
+- [Making Lab](https://4.apap.or.kr/en/makinglab)
+- [Poetic Science Fair](http://blog.sfpc.io/post/104936684316/poetic-science-fair-at-silent-barn)
+- [Sara Hendren](http://aplusa.org/)
+- [Vicky Henson](https://en.wikipedia.org/wiki/Vicki_L._Hanson) 
  
 
 ## Week 7 Teaching philosophy 
