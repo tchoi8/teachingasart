@@ -5,7 +5,7 @@ http://www.kripchak.com/wp-content/uploads/2017/02/TAA-AriWorkshop02.png
 
 My drawing for Ari:
 ![paintings at MET](http://i.imgur.com/yRhzTIL.jpg)
-!http://www.kripchak.com/wp-content/uploads/2017/02/TAA_AriWorkshop.jpg
+![Black American Affluent Grad Student] (http://www.kripchak.com/wp-content/uploads/2017/02/TAA_AriWorkshop.jpg)
 
 Ari gave me more details about the subject of the drawing as time went on. The comments below were written as I read 1 or 2, reacted, drew, read next 1 or 2, reacted/drew, etc. etc. 
 
