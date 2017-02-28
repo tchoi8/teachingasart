@@ -1,4 +1,7 @@
 
+Kripchak's Slides for Ari:
+https://docs.google.com/presentation/d/1kqYT2hCRre8XDwq9sKGh0gTuYhO3Bq9ckIXjcrxfm6I/edit?usp=sharing
+
 Ari's Emoji Art:
 
 ![Emoji01] (http://www.kripchak.com/wp-content/uploads/2017/02/TAA-AriWorkShop01.png)
