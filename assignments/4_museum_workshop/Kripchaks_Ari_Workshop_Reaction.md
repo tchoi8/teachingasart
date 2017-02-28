@@ -1,7 +1,7 @@
 
 Ari's Emoji Art:
-(http://www.kripchak.com/wp-content/uploads/2017/02/TAA-AriWorkShop01.png)
-(http://www.kripchak.com/wp-content/uploads/2017/02/TAA-AriWorkshop02.png)
+!(http://www.kripchak.com/wp-content/uploads/2017/02/TAA-AriWorkShop01.png)
+!(http://www.kripchak.com/wp-content/uploads/2017/02/TAA-AriWorkshop02.png)
 
 My drawing for Ari:
 ![Black American Affluent Grad Student] (http://www.kripchak.com/wp-content/uploads/2017/02/TAA_AriWorkshop.jpg)
