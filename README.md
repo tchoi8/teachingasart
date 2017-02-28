@@ -138,26 +138,8 @@ Lecture about pedagogy, the craft of teaching. Traditional pedagogy and critical
 
 Assignment: Edit your syllabus for museum workshop for your partner and other participants. Rehearse your teaching for them, in person and in museum or in ITP. Create a feedback form for the participant (student) to give you feedback on your teaching. 
 
-  
 
-## Week 5. Unlearning 
-
-February 20, 2017
-
-Student presentation about Workshop proposal. 
-
-Reference lectures
-
-- [Unlearnign disability](https://speakerdeck.com/tchoi8/unlearning-disability) 
-- [Capability and potentiality](https://tchoi8.github.io/poetic-computation-16/slides/week7#/) 
-
-Reading: 
-
-- Judtih Butler 
-- Martha Nussbaum 
-
-
-## Week 6 Inclusive learning 
+## Week 5 Inclusive learning 
 
 February 27, 2017
 
@@ -166,9 +148,12 @@ Lecture about accessible and inclusive learning spaces. Makerspaces, community s
 - [Poetic Science Fair](http://blog.sfpc.io/post/104936684316/poetic-science-fair-at-silent-barn)
 - [Sara Hendren](http://aplusa.org/)
 - [Vicky Henson](https://en.wikipedia.org/wiki/Vicki_L._Hanson) 
- 
+- [Unlearnign disability](https://speakerdeck.com/tchoi8/unlearning-disability) 
+- [Capability and potentiality](https://tchoi8.github.io/poetic-computation-16/slides/week7#/) 
+- Judtih Butler 
+- Martha Nussbaum 
 
-## Week 7 Teaching philosophy 
+## Week 6 Teaching philosophy 
 
 March 6, 2017 
 
@@ -179,10 +164,9 @@ Student presentation about a lesson plan for a workshop.
 
 ## No class 
 
-The president's day 
-
+Spring Break 
  
-## Week 8
+## Week 7
 
 March 20, 2017 
  
