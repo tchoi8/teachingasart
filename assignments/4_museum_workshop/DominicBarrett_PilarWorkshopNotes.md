@@ -31,28 +31,37 @@ Survey for Dominic Barrett's Museum Workshop: The Resource Center and AK Burns
 
 Did you know about the New Museum's Resource Center before attending this workshop?
 
-
+  - No! I didn't!
 
 
 What extra materials from the Resource Center do you remember the most?
 
+  - I remember the books the most, because of their eye-catching titles. However, the punching bag and the records were also fun to interact with (punch/listen to)
+
 
 Was the workshop attendant helpful and useful? How, or how not?
+
+  - Yes! It was useful! I had never heard of AK Burns before and it was lovely to have such a contextualized and thorough first approach to the artist and her process. 
 
 
 What else would you like to see included in this workshop?
 
-
+  - Perhaps a handout with the listing of the media that was in the Resource Center would be nice, just to have a reference to the material later. 
 
 Rate on a scale of 1 to 5, 1 meaning you completely disagree and 5 meaning you absolutely agree:
 This was a new experience
 
 I enjoyed myself
+- 5
 
 I learned
+- 5
 
 I want to come back to the New Museum because of this
+- 3
 
 I wish other Museums had this
+- 5
 
 I am now interested in the work of AK Burns
+- 4
