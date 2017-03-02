@@ -33,10 +33,15 @@ Did you know about the New Museum's Resource Center before attending this worksh
 
 Rate on a scale of 1 to 5, 1 meaning you completely disagree and 5 meaning you absolutely agree:
 This was a new experience
+
 I enjoyed myself
+
 I learned
+
 I want to come back to the New Museum because of this
+
 I wish other Museums had this
+
 I am now interested in the work of AK Burns
 
 
