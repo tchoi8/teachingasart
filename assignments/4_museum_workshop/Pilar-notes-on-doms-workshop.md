@@ -14,18 +14,19 @@ ___
 # Dom's Evaluation of 'Perspectives on Feminism in Latin America'
 
 ### What did you thing was the most valuable piece of knowledge that you obtained from “Perspectives of Feminism in Latin America: Mexico as a Case Study?”
--
+- That the "Idol and Saint" and female betrayal concepts are so part of the Mexican identity that they can be easily found in different media from many different time periods.
+
 ### In a scale from 1 to 5, where 5 means ‘completely agree’ and 1 means ‘completely disagree’ how would you rate the following items: 
 
-- The objective of the course was clearly stated
-- The instructor was knowledgable of the subject
-- The course materials (slides) complemented the oral delivery
-- The course was intellectually stimulating
-- The instructor answered questions
-- The discussion after the lecture enriched the lecture
+- The objective of the course was clearly stated - 5
+- The instructor was knowledgable of the subject - 5
+- The course materials (slides) complemented the oral delivery - 4
+- The course was intellectually stimulating - 5
+- The instructor answered questions - 5
+- The discussion after the lecture enriched the lecture - 5
 
 ### What would you wish you had learned about in the lecture that was not mentioned?
--
+- I'm curious about how the "Idol and Saint" concept has changed or been challenged over time. And if there are similarities or differences with historical feminist issues in other countries, (ie, how unique is this in context of other countries)
 
 ### How would you improve this lecture?
--
+- I really enjoyed it, so really just have it longer and more content. It is a more traditional type of classroom environment, so I was wondering if there was a way to mix it up. But I'm also not sure about going really experimental with it, either. The information is so great, if you decide to change the formula or venue just make sure that the information stays the center point of what you are doing.
