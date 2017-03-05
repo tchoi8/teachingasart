@@ -12,4 +12,5 @@
 
 **Feasible Alternative:**  Since the above is my dream workshop, I propose an alternative to my workshop.  Instead, I propose a workshop broken into 3 sessions.   The sessions would be similar to my MoMA museum workshop I did last week.  Each session would focus on one art piece.  I would bring a series of slides with art, music, literature, culture, politics, and sciences to examine the piece being discussed.  I will chose 3 pieces of work which are tangentially related to each other in order to keep cohesion between sessions.
 
+*Below: Possible survey questions to improve workshop*
 ![Survey](http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-05-at-4.17.31-PM.png)
