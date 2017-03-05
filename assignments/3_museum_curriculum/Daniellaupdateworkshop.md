@@ -19,7 +19,8 @@
 
 This is the updated version of my attempt at creating a "museum workshop" - this did not happen in a museum. 
 It was designed carefully to happen inside. 
-I am extremely grateful for having the opportunity to redesign this experience, this learning experience, in collaboration with my partner and momentaneous student Mithru. 
+
+I am extremely grateful for having the opportunity to redesign this experience, this learning experience in collaboration with my partner and momentaneous student Mithru. 
 I did not expect to discover that the most powerful element of learning or knowledge is the possibility of an encounter. 
 How basic and essential an encounter, the most primitive of forms- to consider the infinite potential of this. 
 
@@ -44,3 +45,5 @@ Questions
 
 ![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/IMG_8919.JPG)
 ![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/IMG_8918.JPG)
+
+![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/WORKSHOPFORMWEB.gif)
