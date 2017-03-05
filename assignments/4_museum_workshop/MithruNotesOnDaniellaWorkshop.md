@@ -25,7 +25,7 @@ Overall, the workshop was quite interesting. I really enjoyed the real world obs
 *What was your biggest takeaway/learning from the workshop?*  
 A mix between numbers and human connection. I guess my biggest takeaway is precisely that, finding the connection between learning and human emotions. 
 
-*In what way was it relevant and helpful to you  personally? *   
+*In what way was it relevant and helpful to you  personally?*    
 I desperately need to learn code : / 
 and I am always looking for ways to understand the mathematical aspects of this. 
 Your workshop gave me one thing that I truly needed: the space to slow down and digest the information in an interesting and aesthetic manner. 
@@ -36,12 +36,12 @@ fellow designers/artists and children
 *How would you describe the workshop in one line to explain it to the person(s) in the previous question? (around 10 words)*  
 Learn how to see math as a drawing with code. 
 
-*What did you feel was missing in the workshop?*
+*What did you feel was missing in the workshop?*  
 I would have liked a bigger screen to interact with or an environment.
 The tactile aspect. 
 
-*What were your thoughts about showing the code? Was it needed for the workshop? Would the workshop be the same if it was just a tool that allowed you to draw different patterns?*
+*What were your thoughts about showing the code? Was it needed for the workshop? Would the workshop be the same if it was just a tool that allowed you to draw different patterns?*  
 For me the code element was essential because it allows you to compare and understand structures and ultimately reality. I think if you combine actual drawing in the wall with a ruler and pencil, doing this just as Sol Lewitt did, and using a projector to trace the lines in the wall that you are doing with code.. that could be really nice and engaging. 
 
-*Any additional comments and feedback? What have I not asked in this form that you think I should have asked?*
+*Any additional comments and feedback? What have I not asked in this form that you think I should have asked?*  
 Maybe talk a bit more about the concept behind Sol Lewitt's drawings.. there is a lot of very interesting ideas and writings about it..maybe for a coder -not an artist- knowing more about the art part could be interesting and engaging. Push the comfort zone.
