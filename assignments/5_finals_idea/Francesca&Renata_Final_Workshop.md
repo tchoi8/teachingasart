@@ -19,7 +19,7 @@
 
 **About the idea**
 
-The more we studied, the more we realized how weaving has a tight attach with women and how through time women have empowered themlseves through this craft, in an individual and collective scale. This type of activity helps building stronger women, women that we aspire to be one day. For them, inspired, by them. 
+The more we studied, the more we realized how weaving has a tight attachment with women and how through time women have empowered themlseves through this craft, in an individual and collective scale. This type of activity helps building stronger women, women that we aspire to be one day. For them, inspired by them. 
 
 *how can we make a homage to these women?*
 
@@ -35,7 +35,7 @@ Date: March 18th
 
 Amount of people: Approximately 10, no minimum/maximun age.
 
-Each person will be instigated to think about one female that they feel extremely inspired by and to weave a piece in homage to her. Later, this weaving will be sent to those people with a postcard. 
+Each person will be instigated to think about one female that they feel extremely inspired by and to weave a piece in homage to her. Later, this weaving will be sent to those people with a postcard/letter from the weaver. 
 
 This workshop is open to the whole community. It will teaching basic techniques of weaving as well as instigating attendees to celebrate the females in their lives.
 
