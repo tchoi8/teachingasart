@@ -146,18 +146,21 @@ February 27, 2017
 Lecture about accessible and inclusive learning spaces. Makerspaces, community spaces, libraries. 
 - [Making Lab](https://4.apap.or.kr/en/makinglab)
 - [Poetic Science Fair](http://blog.sfpc.io/post/104936684316/poetic-science-fair-at-silent-barn)
+
+
+## Week 6 Unlearning
+
+March 6, 2017 
+
+[Lecture 6](https://tchoi8.github.io/teachingasart/lecture6.html#/)
+Lecture about combining theory and practice in art and teaching, through unlearning and plasticity.  
+
 - [Sara Hendren](http://aplusa.org/)
 - [Vicky Henson](https://en.wikipedia.org/wiki/Vicki_L._Hanson) 
 - [Unlearnign disability](https://speakerdeck.com/tchoi8/unlearning-disability) 
 - [Capability and potentiality](https://tchoi8.github.io/poetic-computation-16/slides/week7#/) 
 - Judtih Butler 
 - Martha Nussbaum 
-
-## Week 6 Teaching philosophy 
-
-March 6, 2017 
-
-Lecture about combining theory and practice in art and teaching. 
 
 Student presentation about a lesson plan for a workshop.
 
