@@ -2,6 +2,16 @@ Workshop Title: Making "Fun"
 
 Workshop Topic: Game Design Principles
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++
+Revised for Feasibility to Conduct Workshop in the next week.
++++++++++++++++++
+
+The biggest difference from my initial proposal is that I am aiming for college-age students - basically ITP. They are really the only demographic that I have easy access to. I feel that the structure used in the original write-up will still work. Beginning with an icebreaker, covering what is a game, and focusing the discussion with workbooks all will still hold valid for the new demographic.
+
+The workshop I will put on will be aimed at a max of 10 participants. I would break those down into 2 groups. The gamification topic would be brought up, but I would end the workshop with the group produced game design pitches.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Workshop Purpose: Introduce and teach a structured view of game design, as categorized in Tracy Fullerton's "Game Design Workshop." To help the "non-gamer" understand and appreciate the art form (and challenge) that is good game design. To illustrate how good game design principles can be incorporated into non-game applications.
 
 Workshop Outcome: Participants will be able to look at games (both digital and traditional) and categorize the different formal and dramatic elements of their designs. They will better understand how to successfully "gameify"customer and internal systems.  Participants will also work in groups to produce a unique game pitch that addresses all the game elements.
@@ -32,8 +42,10 @@ Start class with a game as an icebreaker. The game will introduce game concepts 
 
 -Return to original table/friend groups and work on enhancing an aspect of their profession/company with game design principles.
 
-Thoughts:
 
+++++++++++++++++++++++++++++++++
+Working plan and current questions:
+++++++++++++++++++++++++++++++++
 -(Get people to sign their name in the workbook before we have them move to a different chair. Have them reconnect with their original chair, or with the person that ended up with their notebook. Maybe have them put on wristbands before they rotate so that they can remember where they were sitting. )
 
 -What was the purpose of the game? Did it work? Was it fun?
