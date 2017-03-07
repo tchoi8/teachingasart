@@ -11,5 +11,5 @@ required me not only to know how to do this, but also to build platforms and too
 
 I believe that Journalists and communication professionals can enrich their practice by immersing themselves into the world of computational thinking
 code, data, information architecture and web management. This is why I want to design a crash course on either of (or all of) these topics
-designed for busy professionals who could at most dedicate 3 hours to an effort like this. I would like to implement this back home, in Gualajara, 
+designed for busy professionals who could at most dedicate 3 hours to an effort like this. I would like to implement this back home, in Gualajara, this summer, 
 and cater it to a small group, perhaps 10, journalists per session. 
