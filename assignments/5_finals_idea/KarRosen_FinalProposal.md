@@ -1,4 +1,4 @@
-**Workshop Title:**  *Feminist Figures in Art*
+**Workshop Title:**  *Female Figures in Art*
 
 **Length:** 2-3 hours
 
@@ -11,7 +11,7 @@ We will once again revisit the history of art, highlighting artworks depicting w
  Students gain a more well-rounded knowledge of art history, and more mindfulness to sexism in the arts.
  
 **Handouts, Materials, and Supplies:**
-An accompanying booklet (link tba)  is available online for phones (link), print copies available on request. Supplies for activity are provided, but participants are welcome to bring in their own supplies if they wish to draw in another medium other than colored pencils. 
+An [accompanying booklet](https://drive.google.com/file/d/0BwqCrlkGueLTWXV5WWxOTDhfdFk/view)  is available online for phont, print copies available on request. Supplies for activity are provided, but participants are welcome to bring in their own supplies if they wish to draw in another medium other than colored pencils. 
 
 **Schedule:**
 
