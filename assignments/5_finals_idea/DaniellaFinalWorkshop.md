@@ -59,5 +59,4 @@ Agenda: (3h)
 
 
 Workshop :
-https://docs.google.com/presentation/d/1eA52ng5wGS-OILtWmUxd6MUiXIohDbPo-fRsR2LGLDY/pub?start=false&loop=false&delayms=5000
-
+https://docs.google.com/presentation/d/1eA52ng5wGS-OILtWmUxd6MUiXIohDbPo-fRsR2LGLDY/edit?usp=sharing
