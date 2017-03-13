@@ -4,6 +4,7 @@
 **Goal of the workshop**: to encourage adults to think about the big questions and look for answers through a collaborative work.
 
 **Workshop structure**
+
 Part I:
 
 5min: Warm up exercises / Prompts
