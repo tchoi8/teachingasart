@@ -5,14 +5,21 @@
 
 **Workshop structure**
 Part I:
+
 5min: Warm up exercises / Prompts
+
 2min: Asking big question 1
+
 15-20min: Exploring on their own
+
 10min: Presentation & discussion
 
 Part II:
+
 2min: Asking big question 2
+
 15-20min: Exploring on their own
+
 10min: Presentation & discussion
 
 10min: Final discussion & feedback
