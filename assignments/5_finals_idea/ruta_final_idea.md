@@ -107,4 +107,4 @@ The issue I have with it is that adults would more likely say "I know" or "I don
 
 I want to explore what it would take to make adults explore and think about these big questions.
 
-A few things to consider to make that happen: time (what's the good structure of the workshop?), questions (maybe I should define more abstract questions that experts can't answer, but still anstract questions), resources (should I limit access to Internet and use only physical resources: books, etc.?)
+A few things to consider to make that happen: time (what's the good structure of the workshop?), questions (maybe I should define more abstract questions that experts can't answer), resources (should I limit access to Internet and use only physical resources: books, etc.?)
