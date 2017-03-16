@@ -40,7 +40,7 @@ Needless to say the Met has so many programs and events for all ages and is very
 
 **Additional Media:**
 * [Explore: Female Figure Throughout History](https://prezi.com/50nwcuaj80-h/the-evolution-of-the-female-figure-throughout-art-history/)
-* [Women in Ancient Art] (http://www.tandfonline.com/doi/abs/10.1080/00043249.1976.10793305)
+* [Women in Ancient Art](http://www.tandfonline.com/doi/abs/10.1080/00043249.1976.10793305)
 * [BBC's Story of Women and Art (Part 1)](https://www.youtube.com/watch?v=3tGOrpUFSWE)
 * [(Part 2)](https://www.youtube.com/watch?v=2_KxWrhHCJw) 
 * [(Part 3)](https://www.youtube.com/watch?v=hfZeJnVMtWU)
