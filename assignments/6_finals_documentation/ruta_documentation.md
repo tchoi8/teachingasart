@@ -138,7 +138,7 @@ Feedback was done in a form of a discussion at the end of the workshop.
 
 *Additional takeaways:*
 
-  - Adults have more previous experiences and context, so answers are more philosophical
+  - Adults have more previous experiences and context, so their answers are more philosophical
 
   - Big, more open-ended questions work well as prompts to make adults ask even more questions
 
