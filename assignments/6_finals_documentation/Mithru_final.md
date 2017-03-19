@@ -89,4 +89,6 @@ I was surprised that people liked the online tool despite it being bare-bones an
 
 **Showcase**
 
-add pictures of showcase here
+At the end, the patterns generated were on display in the hallway at ITP. 
+
+![](http://blog.mithru.com/wp-content/uploads/2017/03/IMG_20170319_152804.jpg)
