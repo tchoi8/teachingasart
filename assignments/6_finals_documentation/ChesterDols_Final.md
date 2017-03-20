@@ -1,4 +1,5 @@
 ![Banner](http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-19-at-11.39.15-AM.png)
+[BLOG](http://www.chesterdols.com/2017/03/19/final-conversations-in-punk-art-within-intellectual-climate-change-2/)
 
 -Abstract:  The workshop will be an open symposium on art, art movements, and cultural paradigm shifts.  We will look at art work and the context in which it was made.
 
@@ -7,9 +8,6 @@
 -Limited to 10 Participants
 
 -Requirements:  Come with respectful openness and a willingness to engage others in conversation.  No prior expertise are necessary.
-
-![Slide1](http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-20-at-4.32.51-AM.png)
-Above: Slide 1 of my workshop.
 
 ![CuratedImages](http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-20-at-4.32.33-AM.png)
 Above: Sampling of images, ideas, and technologies which informed the intellectual climate in which ‘A Bar at the Folies-Bergere’ was created.
