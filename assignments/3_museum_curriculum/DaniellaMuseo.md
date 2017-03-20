@@ -1,10 +1,10 @@
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/lalalalla_1164.jpg)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/lalalalla_1164.jpg)
 
 
 After reading Hans Haacke’s “Managers of Consciousness” I found myself wondering about the role of museums as institutions and participants of a "consciousness industry." Haacke's controversial ideas on "disinterested pleasure," "controlled ambiguity" and "social lubricant" made me consider it would be interesting to pay a visit to The Rubin Museum and it’s current thematic series: BRAINWAVE 2017(PERCEPTION) which calls to “change our brains, unshackle ourselves from the past, and unleash creativity, growth, and inspiration.” 
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/rubinbrain.jpg)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/rubinbrain.jpg)
 
 About The Rubin Museum 
 
@@ -22,9 +22,9 @@ The Rubin Museum’s permanent collection includes over 2,500 objects spanning m
 
 Last Friday I went to their film program related to the Brainwave series, the movie was introduced by a psychologist and educator, that attempted to make a connection between human perception and mirror meditation. The selected film for the event was "Duck Soup" by The Marx Brothers. This movie has a particular political undertone which is clearly very appropriate for our current times and all the potential to provoke interesting reactions; however I kept on wondering why was I the only young adult in the audience and why everyone around me seemed to be white upper class citizens particularly numb. The over-all sensation was a lack of inquisitive stimulous or provocation from the speakers as part of the educational event, which interestingly was a similar feeling to the general experience of the museum. Even though there were two interesting exhibits that involved sound spaces and interactivity, for some reason I kept on thinking about "the social lubricant" and "a vineyard of consciousness." 
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/duckrubin.png)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/duckrubin.png)
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/Screen%20Shot%202017-02-12%20at%208.42.24%20PM.png)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/Screen%20Shot%202017-02-12%20at%208.42.24%20PM.png)
 
 On Sunday the museum offered a mask making workshop for children and families, as part of their ample educational agenda which 
 includes professional development programs, art-making workshops, “21st century skills: creativity, critical thinking, global competency”(I thought this was interesting, the notion of 21st century skills) amongst others.
@@ -33,7 +33,7 @@ I was particulary interested in this event because I used to teach a mask-making
 
 And here a possible curriculum for a workshop at The Rubin museum: 
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/tumblr_mdga6erg8x1qixxg1.jpg)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/tumblr_mdga6erg8x1qixxg1.jpg)
 
 An acoustics of change begins with an encounter.
 There is white, and a systematizing confusion.
@@ -123,7 +123,7 @@ White | Yes     Squares | Lines     Love | Always
                                                                  Please, echo pure.
                                                                  
  
-  ![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/ORDENM-M_1114.jpg)
+  ![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/ORDENM-M_1114.jpg)
   
   
   
