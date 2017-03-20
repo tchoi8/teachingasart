@@ -12,7 +12,10 @@ I designed this workshop for information professionals who are committed to tell
 
 
 ## Presentation Slides
-[Go to slides](https://docs.google.com/presentation/d/1tD3rRvmLCXuf8K1PpFlzz2dk_rsDXEf8WVuLW6ZP1Uc/edit?usp=sharing)
+[Go to slides](https://docs.google.com/presentation/d/1tD3rRvmLCXuf8K1PpFlzz2dk_rsDXEf8WVuLW6ZP1Uc/edit?usp=sharing)[]
+
+## Feedback form
+[Go to form](https://docs.google.com/a/nyu.edu/forms/d/e/1FAIpQLScx35Po1RNGn0PWxHnaADHZ-4hUiFXtvGe7XoPqtbO6YadP7A/viewform?usp=sf_link)
 
 ## Syllabus
 
