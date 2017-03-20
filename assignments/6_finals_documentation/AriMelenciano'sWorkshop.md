@@ -22,6 +22,11 @@ We then created playlists of about 10 songs that best represented the person.
 
 <br/>
 
+
+We exchanged our playlists and facts with someone else and then grabbed a large poster sheet of paper and crayons. We spent about an hour creating portraits based on the facts and music we received.
+
+
+
 <img src=" https://static1.squarespace.com/static/50452b74e4b0991b726c6b43/58cf4fa2b3db2b938ebca55f/58cf5020bebafb2e39b67559/1489981542771/_O7A9256.JPG?format=1500w" alt="Photo" style="width:204px;height:128px;">
 
 <br/>
@@ -34,4 +39,7 @@ We then created playlists of about 10 songs that best represented the person.
 <img src="
 https://static1.squarespace.com/static/50452b74e4b0991b726c6b43/58cf4fa2b3db2b938ebca55f/58cf5122414fb508c219d0f4/1489981791400/_O7A9277.JPG?format=1500w" alt="Photo" style="width:204px;height:128px;">
 
+When we finished, we put up our portraits and had a mini art show. Everyone was able to view each other's portraits and read the facts that inspired them.
 
+We wrapped up the workshop with a reflection, discussion and critique. This part of the workshop was one of the most insightful parts for me as it allowed me to learn how others might perceive the activity and how to go about it in the future. I've attached the recording of our discussion on my personal site.
+http://www.ariciano.com/teaching-as-art
