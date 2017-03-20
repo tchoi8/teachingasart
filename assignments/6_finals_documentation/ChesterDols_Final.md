@@ -1,4 +1,4 @@
-![http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-19-at-11.39.15-AM.png]
+![Banner](http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-19-at-11.39.15-AM.png)
 
 -Abstract:  The workshop will be an open symposium on art, art movements, and cultural paradigm shifts.  We will look at art work and the context in which it was made.
 
@@ -8,10 +8,10 @@
 
 -Requirements:  Come with respectful openness and a willingness to engage others in conversation.  No prior expertise are necessary.
 
-![http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-20-at-4.32.51-AM.png]
+![Slide1](http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-20-at-4.32.51-AM.png)
+Above: Slide 1 of my workshop.
 
-![http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-20-at-4.32.33-AM.png]
-
+![CuratedImages](http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-20-at-4.32.33-AM.png)
 Above: Sampling of images, ideas, and technologies which informed the intellectual climate in which ‘A Bar at the Folies-Bergere’ was created.
 
 Overview:  The workshop started off a bit shaky.  I had presented a series of individual slides and a final slide showing the curated images all together.  At first, it definitely felt like a lecture and not so much like a symposium.  I went through each slide and was asked by the group to explain each image.  Even by the time that I got to my last slide of the collected images, I felt like I was doing most of the discussion alone that I was hoping would be done by the group.  The ideas which I hoped would come through with the collection altogether, I realized after would have maybe been easier to grasp or form if I would have done more easily digestible pairings of ideas.  In short, I should have taken a slower walk-through the images and the ideas that they invoked. I should have started with couplings being discussed first and the group of images and it’s general idea being discussed last.
@@ -24,4 +24,9 @@ In truth, the images were purely there to prompt discussion.  I was more than sa
 
 Critique/Advice:  The exercise was hugely informative in how  hard it is to teach and how to think on your feet.  My ideas didn’t come through in discussion liked I hoped.  I should take my group through the ideas in the slides slower in the future.
 
-![http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-20-at-4.31.27-AM.png]
+![Documentation](http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-20-at-4.31.27-AM.png)
+Above: Symposium in process…
+
+![CuratedImages2](http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-20-at-4.35.09-AM.png)
+Above: Sampling of images, ideas, and technologies which informed the intellectual climate of the ‘Nude Descending a Staircase’ by Marcel Duchamp.
+
