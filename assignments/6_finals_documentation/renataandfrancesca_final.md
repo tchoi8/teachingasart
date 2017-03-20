@@ -1,6 +1,6 @@
 # Teaching as Art final – Weaving as a celebration of strong females
 
-![Workshop Flyer](https://www.gauirenata.com/projects/images/workshop_flyer_web.jpg)
+![Workshop Flyer](http://gauirenata.com/projects/images/workshop_flyer_web.jpg)
 
 
 ## Pre Workshop
