@@ -110,7 +110,7 @@ Feedback was done in a form of a discussion at the end of the workshop.
 
 *Questions:*
 
-  - The question 1 (What would happen if Earth was a different shape?) might need more structure as it was hard to understand which direction to go (participants had a lot of “if” questions
+  - The question 1 (What would happen if Earth was a different shape?) might need more structure as it was hard to understand which direction to go (participants had a lot of “if” questions)
 
   - Liked the question 2 (Why do we forget?) because it was open-ended and could be more related to people's previous experiences
 
