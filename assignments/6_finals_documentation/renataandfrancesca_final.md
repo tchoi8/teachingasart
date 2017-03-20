@@ -9,6 +9,9 @@ We hosted our workshop this saturday, at my place – because it is a house inha
 
 ## The Workshop
 
+<iframe src="https://player.vimeo.com/video/209263737" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/209263737">A weaving workshop</a> from <a href="https://vimeo.com/francescars">Francesca Rodriguez Sawaya</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ![Learning how to weave](http://gauirenata.com/projects/images/together_w.jpg)
 
 As attendees came, we were doing small talk about life and then once everybody was in we started the workshop. The fact that most of us knew each other made everybody feel instantly comfortable but also the environment easily went casual and a few times we had to bring it back to a workshop state. We started asking everybody to introduce themselves by saying their names and telling a thing they did with their hands (either crafts or building work) that after they were done, they felt empowered. Then, we gave an introduction of how craftwork can be empowering and we talked about our own work. Once we had done that, we talked about how we would teach them weaving by making each of us reflect over an important female in our lives. We gave a piece of paper and a pencil to each of the attendees and we asked them to think about one strong woman in their lives and write about them. After everybody was done, we asked for everybody to read and we talked about what was the role or the roles that these women had in our lives and how they inspired us. Having them in our minds, we started teaching how to weave. We taught basic weaving techniques and then the rest of the workshop was all of us doing the weaving as we talked. We suggested the attendees to mail it to the females they were inspired by, giving them tags in which they could write a note for them. 
