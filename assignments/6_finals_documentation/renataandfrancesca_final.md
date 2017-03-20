@@ -18,7 +18,7 @@ As attendees came, we were doing small talk about life and then once everybody w
 
 ## Feedback and Reflections
 
-![Workshop Weaved Pieces](http://gauirenata.com/projects/images/Foto6.JPG)
+![Workshop Weaved Pieces](http://gauirenata.com/projects/images/everybody.jpg)
 
 After we were done with the workshop we got feedback from the attendees. They really liked they spend time learning how to weave, because they felt that if there wasn’t a workshop they wouldn’t try to learn by themselves. A few were wondering how we could make the weaving time a bit more dynamic, because they were a bit bored once they got in a specific pattern of how to weave. When we asked about how much inspired they weaving piece was on the female they wrote about, most of them said that they were mostly focusing on doing the weaving - rather than doing the weaving as they think/get inspired by a female. 
 
