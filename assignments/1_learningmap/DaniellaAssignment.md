@@ -1,6 +1,6 @@
 
 
- ![Map 1] (https://raw.githubusercontent.com/tchoi8/teachingasart/master/assignments/1_learningmap/colors_608.jpg)
+ ![Map 1](https://raw.githubusercontent.com/tchoi8/teachingasart/master/assignments/1_learningmap/colors_608.jpg)
 
 First encounter with an idea:
 
@@ -38,4 +38,4 @@ importantly how this experience can be transmitted to others. For as Louise Bour
 
 begin to have hope again.”
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/teachingasARTmap.jpg)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/teachingasARTmap.jpg)
