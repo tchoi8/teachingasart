@@ -1,10 +1,10 @@
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/workshopfly.png)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/workshopfly.png)
 
 
 Process / Research :
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/workshopthinng2.gif)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/workshopthinng2.gif)
 ![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/workshopthinkngprocess.gif)
 
 Workshop: Thinking The Interior (structures-of-hope)
@@ -54,7 +54,7 @@ Agenda: (3h)
  
  +Experiment#3 (1:30hr) Structures of Hope (Materials provided) 
  
- ![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/990514a9d7fa7c41b561aa112eb7c6563d0b93af/IMG_9160.JPG) 
+ ![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/990514a9d7fa7c41b561aa112eb7c6563d0b93af/IMG_9160.JPG) 
  
 
 
