@@ -14,17 +14,17 @@ Facts: ● Opening date: October 2, 2004 ● 1.4 million visitors who have enjoy
 The Rubin Museum’s permanent collection includes over 2,500 objects spanning more than 1,500 years to the present day. Included are works of art from the Tibetan plateau, with examples from surrounding regions including Nepal, Bhutan, India, Pakistan, Afghanistan, China and Mongolia. The museum’s collection is primarily comprised of scroll paintings (thangka) and sculptures from the region, but also includes a wide variety of artwork, including masks, textiles, and illuminated manuscripts. The museum offers programs for K-12 , universities, families and adults along with digital resources and an online media platform. The “institution” aspires to: "create a connection between contemporary life and the art of the Himalayas and other eastern cultures." They emphasize the presence of immersive experiences that according to them encourage personal discoveries and new ways of seeing the world and they to this by designing events, itineraries and thematic series.
 
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/Screen%20Shot%202017-02-12%20at%208.53.01%20PM.png)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/Screen%20Shot%202017-02-12%20at%208.53.01%20PM.png)
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/Screen%20Shot%202017-02-12%20at%209.40.52%20PM.png)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/Screen%20Shot%202017-02-12%20at%209.40.52%20PM.png)
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/education%20at%20rubin.png)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/education%20at%20rubin.png)
 
 Last Friday I went to their film program related to the Brainwave series, the movie was introduced by a psychologist and educator, that attempted to make a connection between human perception and mirror meditation. The selected film for the event was "Duck Soup" by The Marx Brothers. This movie has a particular political undertone which is clearly very appropriate for our current times and all the potential to provoke interesting reactions; however I kept on wondering why was I the only young adult in the audience and why everyone around me seemed to be white upper class citizens particularly numb. The over-all sensation was a lack of inquisitive stimulous or provocation from the speakers as part of the educational event, which interestingly was a similar feeling to the general experience of the museum. Even though there were two interesting exhibits that involved sound spaces and interactivity, for some reason I kept on thinking about "the social lubricant" and "a vineyard of consciousness." 
 
-![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/duckrubin.png)
+![Map 1(https://raw.githubusercontent.com/daniellagr/teachingasart/master/duckrubin.png)
 
-![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/Screen%20Shot%202017-02-12%20at%208.42.24%20PM.png)
+![Map 1(https://raw.githubusercontent.com/daniellagr/teachingasart/master/Screen%20Shot%202017-02-12%20at%208.42.24%20PM.png)
 
 On Sunday the museum offered a mask making workshop for children and families, as part of their ample educational agenda which 
 includes professional development programs, art-making workshops, “21st century skills: creativity, critical thinking, global competency”(I thought this was interesting, the notion of 21st century skills) amongst others.
