@@ -9,8 +9,7 @@ We hosted our workshop this saturday, at my place – because it is a house inha
 
 ## The Workshop
 
-<iframe src="https://player.vimeo.com/video/209263737" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/209263737">A weaving workshop</a> from <a href="https://vimeo.com/francescars">Francesca Rodriguez Sawaya</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+![go to video](https://vimeo.com/209263737)
 
 ![Learning how to weave](http://gauirenata.com/projects/images/together_w.jpg)
 
