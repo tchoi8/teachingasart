@@ -1,4 +1,4 @@
-![http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-19-at-11.39.15-AM.png](http://itp.pilargomezruiz.com/wp-content/uploads/2017/03/workshop-cover.png)
+![http://www.chesterdols.com/wp-content/uploads/2017/03/Screen-Shot-2017-03-19-at-11.39.15-AM.png]
 
 -Abstract:  The workshop will be an open symposium on art, art movements, and cultural paradigm shifts.  We will look at art work and the context in which it was made.
 
