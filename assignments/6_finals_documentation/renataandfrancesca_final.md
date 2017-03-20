@@ -9,7 +9,7 @@ We hosted our workshop this saturday, at my place – because it is a house inha
 
 ## The Workshop
 
-![go to video](https://vimeo.com/209263737)
+[workshop video](https://vimeo.com/209263737)
 
 ![Learning how to weave](http://gauirenata.com/projects/images/together_w.jpg)
 
