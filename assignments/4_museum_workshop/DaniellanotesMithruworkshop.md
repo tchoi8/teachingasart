@@ -15,7 +15,7 @@ beauty and math.
 Thank you Mithru! 
 
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/LeWitt-9.png)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/LeWitt-9.png)
 
 
 I believe my biggest takeaway from this workshop is precisely finding the connection between learning and human emotions. 
@@ -25,4 +25,4 @@ For me the code element was essential because it allows you to compare and under
 For the next iteration of this workshop, it could be interesting to combine actual drawing in the wall with a ruler and pencil, doing this just as Sol Lewitt did, and using a projector to trace the lines in the wall that you are doing with code. Maybe it could be an opportunity to expand and talk a bit more about the concept behind Sol Lewitt's drawings. His writings and very interesting ideas, maybe for a coder -not an artist- knowing more about the art part could be interesting and engaging. Push the comfort zone.
 
 
-![Map 1] (https://raw.githubusercontent.com/daniellagr/teachingasart/master/MITRU.JPG)
+![Map 1](https://raw.githubusercontent.com/daniellagr/teachingasart/master/MITRU.JPG)
