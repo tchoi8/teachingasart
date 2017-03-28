@@ -43,3 +43,16 @@ When we finished, we put up our portraits and had a mini art show. Everyone was 
 
 We wrapped up the workshop with a reflection, discussion and critique. This part of the workshop was one of the most insightful parts for me as it allowed me to learn how others might perceive the activity and how to go about it in the future. I've attached the recording of our discussion on my personal site.
 http://www.ariciano.com/teaching-as-art
+
+
+## Comments
+
+My student Ari's empathy workshop demonstrates a smart way of building temporary community and finding connections among strangers. The workshop makes space for different people (who share little in common) to imagine having an intimate relationship with each others loved ones. There's also something poetic about mixing up the description and playlists.
+This workshop is created in response to the lack of diversity in certain professional spaces. I like to think homogeneity or lack of representation of minority, is a chance to make it better. Every kind of social acceptance we enjoy today, are the product of our predecessors' struggle and achievement. When everything looks so grim and hopeless, it's more important than ever, to find solidarity and move forward. I think this workshop can be a way of making space, organization and community more inclusive and diverse. I think this workshop brings opportunities of reaching out to those who appear different, or not interested. They may be shy, unaware, or just misinformed. We all carry prejudices and expectations. It's our duty to break them.
+I suggested this book on race, politics and representation to Ari.
+https://www.amazon.com/We-Gon-Be-Alright-Resegregation/dp/0312429487 
+http://www.npr.org/2016/10/16/498171519/author-jeff-chang-says-people-really-want-to-have-conversations-on-race 
+
+
+Also, this talk on Aesthetics of Doing was really good, and some conversations reminded me of Ari's work. abladeofgrass.org/events/aesthetics-of-doing-performing-transform/
+http://www.ariciano.com/teaching-as-art
