@@ -69,6 +69,11 @@ Artists as educators, performance art work as curriculum
 - [Tabari Bomani](http://creativetimexr.org/summit/2015/11/13/tabari-zaid-bomani/) – Brooklyn 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 7d930990d609aa2d13c080a28a2c7bfd4c02678a
 ##3. Tree – Semilattice   
 
 
